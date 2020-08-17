@@ -18,7 +18,7 @@ I am currently an Alexander von Humboldt Research Fellow at the Machine Learning
 My research interests lie in the areas of machine learning and learning theory, with emphasis on the following topics: online learning, deep learning, optimization and extreme classification. In particular, I am interested in developing and analyzing scalable optimization methods for large-scale learning problems.
 
 === Selected Publications 
-. Y. Lei, Y. Ying. \"Fine-Grained Analysis of Stability and Generalization for Stochastic Gradient Descent\". International Conference on Machine Learning, 2020. [slide/ICML2020.pdf Talk Slides]
+. Y. Lei, Y. Ying. \"Fine-Grained Analysis of Stability and Generalization for Stochastic Gradient Descent\". In International Conference on Machine Learning, 2020. [slide/ICML2020.pdf Talk Slides]
 . Y. Lei, T. Hu, G. Li and K. Tang. \"Stochastic Gradient Descent for Nonconvex Learning without Bounded Gradient Assumptions\". IEEE Transactions on Neural Networks and Learning Systems, [https://doi.org/10.1109/TNNLS.2019.2952219 doi: 10.1109/TNNLS.2019.2952219]
 . Y. Lei and D.-X. Zhou. \"Convergence of Online Mirror Descent\". Applied Computational and Harmonic Analysis, 48(1):343-373, 2020. [slide/ACHA2020.pdf Talk Slides]
 . Y. Lei, P. Yang, K. Tang and D.-X. Zhou. \"Optimal Stochastic and Online Learning with Individual Iterates\". In Advance in Neural Information Processing Systems, pages 5416-5426, 2019.  (*Spotlight*, [slide/NeurIPS2019.pdf Talk Slides])
