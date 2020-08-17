@@ -15,10 +15,7 @@ I am currently an Alexander von Humboldt Research Fellow at the Machine Learning
  
 
 == Research
-My research interests include 
-- Learning Theory 
-- Optimization
-- Machine Learning
+My research interests lie in the areas of machine learning and learning theory, with emphasis on the following topics: online learning, deep learning, optimization and extreme classification. In particular, I am interested in developing and analyzing scalable optimization methods for large-scale learning problems.
 
 === Selected Publications 
 . Y. Lei, Y. Ying. \"Fine-Grained Analysis of Stability and Generalization for Stochastic Gradient Descent\". International Conference on Machine Learning, 2020. [slide/ICML2020.pdf Talk Slides]
