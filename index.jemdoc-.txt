@@ -1,0 +1,77 @@
+# jemdoc: menu{MENU}{index.html}, showsource, analytics{UA-31107207-1}
+= Lijie Chen 
+
+~~~
+{}{img_left}{lijie.jpg}{Lijie Chen} 
+~~~
+ 
+*Research Interests*: /Theoretical Computer Science /\n\n I have a broad interest in theoretical computer science. In particular, I am interested in [papersCat.html {{<font color=red size=+0.5><b>}}Computational Complexity{{</b></font>}}] and [papersCat.html {{<font color=red size=+0.5><b>}}Fine-Grained Complexity{{</b></font>}}].
+  
+I am currently a third year graduate student at MIT, and I am very fortunate to be advised by [https://people.csail.mit.edu/rrw/ Ryan Williams]. Prior to that, I received my bachelor's degree from [http://iiis.tsinghua.edu.cn/en/yaoclass/ Yao Class] at Tsinghua University.
+
+At Tsinghua University, I was advised by Prof. [http://iiis.tsinghua.edu.cn/~jianli/ Jian Li], working on [papersCat.html /Multi-Armed Bandits/]. During the Spring of 2016, I was visiting MIT, working under the supervision of Prof. [https://www.scottaaronson.com/ Scott Aaronson] on [papersCat.html /Quantum Complexity/]. [CV.pdf \[CV\]]
+
+I was visiting [https://simons.berkeley.edu/ Simons Institute] in the Fall of 2018.
+
+[https://twitter.com/wjmzbmr1 Twitter]
+
+== *Selected Publications*
+
+- *Strong Average-Case Circuit Lower Bounds from Non-trivial Derandomization*\n
+Lijie Chen, Hanlin Ren\n
+/Symposium on the Theory of Computing/ (STOC 2020)\n
+[https://eccc.weizmann.ac.il/report/2020/010/ \[eccc\]] \n
+[Reunion_Talk.pptx \[slides at Simons (for complexity theorist)\]] [IAS_Talk.pptx \[slides at IAS (intense version)\]] [Warwick_Talk.pptx \[slides at Warwick (lightweight version)\]] \n
+
+- *Beyond Natural Proofs: Hardness Magnification and Locality*\n
+Lijie Chen, Shuichi Hirahara, Igor Oliveira, Jan Pich, Ninad Rajgopal, Rahul Santhanam\n
+/Innovations in Theoretical Computer Science/ (ITCS 2020)\n
+[https://eccc.weizmann.ac.il/report/2019/168/ \[eccc\]] [https://arxiv.org/abs/1911.08297 \[arxiv\]]\n
+[https://www.dcs.warwick.ac.uk/~igorcarb/documents/papers/magnification-note.pdf \[notes by Igor\]]\n
+
+- *Sharp Threshold Results for Computational Complexity*\n
+Lijie Chen, Ce Jin, Ryan Williams\n
+/Symposium on the Theory of Computing/ (STOC 2020)\n
+[https://eccc.weizmann.ac.il/report/2020/065/ \[eccc\]] [sharp-threshold.pptx \[slides\]] \n
+
+- *Efficient Construction of Rigid Matrices Using an NP Oracle*\n
+Josh Alman, Lijie Chen\n
+/Foundations of Computer Science/ (FOCS 2019)\n
+*Machtey Award for Best Student Paper*\n 
+*Invited to the SICOMP Special Issue for FOCS 2019*\n
+[FOCS_2019_rigidmatrix.pdf \[pdf\]] [FOCS_2019_rigidmatrix_slides.pptx \[slides\]] [http://www.wisdom.weizmann.ac.il/~oded/MC/281.html \[Oded's choice\]]\n
+
+- *Bootstrapping Results for Threshold Circuits "Just Beyond" Known Lower Bounds*\n
+Lijie Chen, [https://sites.google.com/site/roeitell/ Roei Tell]\n
+/Symposium on the Theory of Computing/ (STOC 2019)\n
+*Danny Lewin Best Student Paper Award*\n 
+[https://eccc.weizmann.ac.il/report/2018/199/ \[eccc\]] [http://www.wisdom.weizmann.ac.il/~oded/MC/256.html \[Oded's choice\]]\n
+
+- *On The Hardness of Approximate and Exact (Bichromatic) Maximum Inner Product*\n 
+Lijie Chen\n
+/Computational Complexity Conference/ (CCC 2018)\n
+*Invited to the Toc Special Issue for CCC 2018*\n
+[https://eccc.weizmann.ac.il/report/2018/026/ \[eccc\] ] [https://arxiv.org/abs/1802.02325 \[arxiv\]] [CCC_2018_MaxIP.pptx \[slides\] ] 
+[MaxIP-draft-Journal.pdf \[draft of journal version\]]
+\n
+~~~
+{Summary} 
+/We showed (among many other things) finding the furthest pair among n points in 2^(log\* n) dimensional Euclidian space\n
+requires essentialy n^2 time under SETH. We also use the sqrt(n) BQP communication protocol for Set-Disjointness to establish \n
+inapproximbility results for problems in P./\n
+~~~
+
+- *Complexity-Theoretic Foundations of Quantum Supremacy Experiments*\n
+[https://www.scottaaronson.com/ Scott Aaronson], Lijie Chen\n
+/Computational Complexity Conference/ (CCC 2017)\n
+*Invited to the Toc Special Issue for CCC 2017*\n
+[http://eccc.hpi-web.de/report/2016/200/ \[eccc\]] [https://arxiv.org/abs/1612.05903 \[arxiv\]] 
+[CCC_2017_QuantumSupremacy.pdf \[slides\]]\n
+~~~
+{Summary} 
+/We studied the general theoretical foundations for demonstrating "quantum supremacy" with near-term quantum devices./\n
+~~~
+
+== *Submitted \/ Manuscripts*
+
+== [papersYear.html *Full Publications*]\n

@@ -17,7 +17,7 @@ git commit -m 'xxx（本次更新内容）'
 git push
 
 
-
+git bash
 
 
 # jemdoc: menu{MENU}{index.html}, nofooter  
