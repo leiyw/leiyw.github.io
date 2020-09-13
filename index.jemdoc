@@ -18,7 +18,7 @@ I am currently a [https://www.humboldt-foundation.de/pls/web/pub_hn_query.humbol
 My research interests lie in the areas of machine learning and learning theory, with emphasis on the following topics: online learning, deep learning, optimization and extreme classification. In particular, I am interested in developing and analyzing scalable optimization methods for large-scale learning problems.
 
 === Selected Publications 
-. Z. Yang, B. Zhou, Y. Lei, Y. Ying. "Stochastic Hard Thresholding Algorithms for AUC Maximization", IEEE International Conference on Data Mining, 2020.
+. Z. Yang, B. Zhou, Y. Lei, Y. Ying. \"Stochastic Hard Thresholding Algorithms for AUC Maximization\". IEEE International Conference on Data Mining, 2020.
 . Y. Lei, Y. Ying. \"Fine-Grained Analysis of Stability and Generalization for Stochastic Gradient Descent\". In International Conference on Machine Learning, 2020. [slide/ICML2020.pdf Talk Slides]
 . Y. Lei, T. Hu, G. Li and K. Tang. \"Stochastic Gradient Descent for Nonconvex Learning without Bounded Gradient Assumptions\". IEEE Transactions on Neural Networks and Learning Systems, [https://doi.org/10.1109/TNNLS.2019.2952219 doi: 10.1109/TNNLS.2019.2952219]
 . Y. Lei and D.-X. Zhou. \"Convergence of Online Mirror Descent\". Applied Computational and Harmonic Analysis, 48(1):343-373, 2020. [slide/ACHA2020.pdf Talk Slides]
