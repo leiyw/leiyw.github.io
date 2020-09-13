@@ -42,7 +42,7 @@ Top Tier Conference Proceedings:
 3. Y. Lei, S.-B. Lin and K. Tang. "Generalization Bounds for Regularized Pairwise Learning." In International Joint Conference on Artificial Intelligence, pages 2376-2382, 2018.
 4. Y. Lei, A. Binder, U. Dogan and M. Kloft. "Localized Multiple Kernel Learning-A Convex Approach." In JMLR Conference and Workshop Proceedings: Asian Conference on Machine Learning, 63:81-96, 2016.
 5. Y. Lei, U. Dogan, A. Binder and M. Kloft. "Multi-class SVMs: From Tighter Data-Dependent Generalization Bounds to Novel Algorithms." In Advances in Neural Information Processing Systems, pages 2026-2034, 2015.
-
+6. Z. Yang, B. Zhou, Y. Lei, Y. Ying. "Stochastic Hard Thresholding Algorithms for AUC Maximization", IEEE International Conference on Data Mining, 2020.
 
 I am currently an Alexander von Humboldt Research Fellow, financially supported by the Alexander von Humboldt Foundation. I am working on the project "Statistical Machine Learning Using Vector-valued Functions". My goal is to develop a unifying theory and scalable algorithms for learning with vector-valued functions.
 
