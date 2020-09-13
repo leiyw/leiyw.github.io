@@ -28,14 +28,14 @@ My research interests lie in the areas of machine learning and learning theory, 
 . Y. Lei and D.-X. Zhou. \"Learning Theory of Randomized Sparse Kaczmarz Method\". SIAM Journal on Imaging Sciences, 11(1):547-574, 2018.
 . J. Lin, Y. Lei, B. Zhang and D.-X. Zhou. \"Online Pairwise Learning Algorithms with Convex Loss Functions\". Information Sciences, 406-407(9):57-70, 2017.
 . Y. Lei and D.-X. Zhou. \"Analysis of Online Composite Mirror Descent Algorithm\". Neural Computation, 29(3):825-860, 2017.
-. Y. Lei, Y. Ying. \"Generalization Analysis of Multi-modal Metric Learning\". Analysis and Applications 14(4): 503-521 (2016).
+. Y. Lei and Y. Ying. \"Generalization Analysis of Multi-modal Metric Learning\". Analysis and Applications 14(4): 503-521 (2016).
 . Y. Lei, L. Ding and W. Zhang. \"Generalization Performance of Radial Basis Function Networks\". IEEE Transactions on Neural Networks and Learning Systems, 26(3):551-564, 2015.
 
 
 === Conference Publications 
-. Z. Yang, B. Zhou, Y. Lei, Y. Ying. \"Stochastic Hard Thresholding Algorithms for AUC Maximization\". IEEE International Conference on Data Mining, 2020.
+. Z. Yang, B. Zhou, Y. Lei and Y. Ying. \"Stochastic Hard Thresholding Algorithms for AUC Maximization\". IEEE International Conference on Data Mining, 2020.
 . S. Liu, K. Tang, Y. Lei and X. Yao. \"On Performance Estimation in Automatic Algorithm Configuration\". In Association for the Advancement of Artificial Intelligence, pages 1526--1536, 2020.
-. Y. Lei, Y. Ying. \"Fine-Grained Analysis of Stability and Generalization for Stochastic Gradient Descent\". In International Conference on Machine Learning, 2020. [slide/ICML2020.pdf Talk Slides]
+. Y. Lei and Y. Ying. \"Fine-Grained Analysis of Stability and Generalization for Stochastic Gradient Descent\". In International Conference on Machine Learning, 2020. [slide/ICML2020.pdf Talk Slides]
 . Y. Lei, P. Yang, K. Tang and D.-X. Zhou. \"Optimal Stochastic and Online Learning with Individual Iterates\". In Advances in Neural Information Processing Systems, pages 5416-5426, 2019.  (*Spotlight*, [slide/NeurIPS2019.pdf Talk Slides])
 . Y. Lei and K. Tang. \"Stochastic Composite Mirror Descent: Optimal Bounds with High Probabilities\". In Advances in Neural Information Processing Systems, pages 1526-1536, 2018.
 . Y. Lei, S.-B. Lin and K. Tang. \"Generalization Bounds for Regularized Pairwise Learning\". In International Joint Conference on Artificial Intelligence, pages 2376-2382, 2018.
