@@ -1,77 +1,71 @@
-# jemdoc: menu{MENU}{index.html}, showsource, analytics{UA-31107207-1}
-= Lijie Chen 
+# jemdoc: nofooter
+==Yunwen Lei 
 
 ~~~
-{}{img_left}{lijie.jpg}{Lijie Chen} 
-~~~
- 
-*Research Interests*: /Theoretical Computer Science /\n\n I have a broad interest in theoretical computer science. In particular, I am interested in [papersCat.html {{<font color=red size=+0.5><b>}}Computational Complexity{{</b></font>}}] and [papersCat.html {{<font color=red size=+0.5><b>}}Fine-Grained Complexity{{</b></font>}}].
-  
-I am currently a third year graduate student at MIT, and I am very fortunate to be advised by [https://people.csail.mit.edu/rrw/ Ryan Williams]. Prior to that, I received my bachelor's degree from [http://iiis.tsinghua.edu.cn/en/yaoclass/ Yao Class] at Tsinghua University.
-
-At Tsinghua University, I was advised by Prof. [http://iiis.tsinghua.edu.cn/~jianli/ Jian Li], working on [papersCat.html /Multi-Armed Bandits/]. During the Spring of 2016, I was visiting MIT, working under the supervision of Prof. [https://www.scottaaronson.com/ Scott Aaronson] on [papersCat.html /Quantum Complexity/]. [CV.pdf \[CV\]]
-
-I was visiting [https://simons.berkeley.edu/ Simons Institute] in the Fall of 2018.
-
-[https://twitter.com/wjmzbmr1 Twitter]
-
-== *Selected Publications*
-
-- *Strong Average-Case Circuit Lower Bounds from Non-trivial Derandomization*\n
-Lijie Chen, Hanlin Ren\n
-/Symposium on the Theory of Computing/ (STOC 2020)\n
-[https://eccc.weizmann.ac.il/report/2020/010/ \[eccc\]] \n
-[Reunion_Talk.pptx \[slides at Simons (for complexity theorist)\]] [IAS_Talk.pptx \[slides at IAS (intense version)\]] [Warwick_Talk.pptx \[slides at Warwick (lightweight version)\]] \n
-
-- *Beyond Natural Proofs: Hardness Magnification and Locality*\n
-Lijie Chen, Shuichi Hirahara, Igor Oliveira, Jan Pich, Ninad Rajgopal, Rahul Santhanam\n
-/Innovations in Theoretical Computer Science/ (ITCS 2020)\n
-[https://eccc.weizmann.ac.il/report/2019/168/ \[eccc\]] [https://arxiv.org/abs/1911.08297 \[arxiv\]]\n
-[https://www.dcs.warwick.ac.uk/~igorcarb/documents/papers/magnification-note.pdf \[notes by Igor\]]\n
-
-- *Sharp Threshold Results for Computational Complexity*\n
-Lijie Chen, Ce Jin, Ryan Williams\n
-/Symposium on the Theory of Computing/ (STOC 2020)\n
-[https://eccc.weizmann.ac.il/report/2020/065/ \[eccc\]] [sharp-threshold.pptx \[slides\]] \n
-
-- *Efficient Construction of Rigid Matrices Using an NP Oracle*\n
-Josh Alman, Lijie Chen\n
-/Foundations of Computer Science/ (FOCS 2019)\n
-*Machtey Award for Best Student Paper*\n 
-*Invited to the SICOMP Special Issue for FOCS 2019*\n
-[FOCS_2019_rigidmatrix.pdf \[pdf\]] [FOCS_2019_rigidmatrix_slides.pptx \[slides\]] [http://www.wisdom.weizmann.ac.il/~oded/MC/281.html \[Oded's choice\]]\n
-
-- *Bootstrapping Results for Threshold Circuits "Just Beyond" Known Lower Bounds*\n
-Lijie Chen, [https://sites.google.com/site/roeitell/ Roei Tell]\n
-/Symposium on the Theory of Computing/ (STOC 2019)\n
-*Danny Lewin Best Student Paper Award*\n 
-[https://eccc.weizmann.ac.il/report/2018/199/ \[eccc\]] [http://www.wisdom.weizmann.ac.il/~oded/MC/256.html \[Oded's choice\]]\n
-
-- *On The Hardness of Approximate and Exact (Bichromatic) Maximum Inner Product*\n 
-Lijie Chen\n
-/Computational Complexity Conference/ (CCC 2018)\n
-*Invited to the Toc Special Issue for CCC 2018*\n
-[https://eccc.weizmann.ac.il/report/2018/026/ \[eccc\] ] [https://arxiv.org/abs/1802.02325 \[arxiv\]] [CCC_2018_MaxIP.pptx \[slides\] ] 
-[MaxIP-draft-Journal.pdf \[draft of journal version\]]
-\n
-~~~
-{Summary} 
-/We showed (among many other things) finding the furthest pair among n points in 2^(log\* n) dimensional Euclidian space\n
-requires essentialy n^2 time under SETH. We also use the sqrt(n) BQP communication protocol for Set-Disjointness to establish \n
-inapproximbility results for problems in P./\n
+{}{img_left}{Lei.jpg}{Yunwen Lei}
+PhD,\n [https://www.birmingham.ac.uk/schools/computer-science/index.aspx School of Computer Science], \n[https://www.birmingham.ac.uk/index.aspx University of Birmingham]\n
+Edgbaston\n
+Birmingham
+B15 2TT\n
+United Kingdom\n
+E-mail: /y.lei/ \[@\] bham.ac.uk
 ~~~
 
-- *Complexity-Theoretic Foundations of Quantum Supremacy Experiments*\n
-[https://www.scottaaronson.com/ Scott Aaronson], Lijie Chen\n
-/Computational Complexity Conference/ (CCC 2017)\n
-*Invited to the Toc Special Issue for CCC 2017*\n
-[http://eccc.hpi-web.de/report/2016/200/ \[eccc\]] [https://arxiv.org/abs/1612.05903 \[arxiv\]] 
-[CCC_2017_QuantumSupremacy.pdf \[slides\]]\n
-~~~
-{Summary} 
-/We studied the general theoretical foundations for demonstrating "quantum supremacy" with near-term quantum devices./\n
-~~~
+== About Me
+I am currently a Lecturer at School of Computer Science, University of Birmingham. Previously, I was a [http://www.humboldt-foundation.org/pls/web/pub_hn_query.humboldtianer_details?p_lang=en&p_externe_id=4268809 Humboldt Research Fellow] at University of Kaiserslautern, a Research Assistant Professor at Southern University of Science and Technology, and a Postdoctoral Research Fellow at City University of Hong Kong. I obtained my PhD degree in Computer Science at Wuhan University in 2014.
 
-== *Submitted \/ Manuscripts*
+== Research
+My research interests lie in the areas of machine learning and learning theory, with emphasis on the following topics: online learning, deep learning, optimization and extreme classification. In particular, I am interested in developing and analyzing scalable optimization methods for large-scale learning problems.
 
-== [papersYear.html *Full Publications*]\n
+=== Journal Publications 
+. Y. Lei, T. Hu, G. Li and K. Tang. \"Stochastic Gradient Descent for Nonconvex Learning without Bounded Gradient Assumptions\". IEEE Transactions on Neural Networks and Learning Systems, 31(10):4394-4400, 2020.
+. Y. Lei and D.-X. Zhou. \"Convergence of Online Mirror Descent\". Applied Computational and Harmonic Analysis, 48(1):343-373, 2020. [slide/ACHA2020.pdf Talk Slides]
+. S.-B. Lin, Y. Lei and D.-X. Zhou. \"Boosted Kernel Ridge Regression: Optimal Learning Rates and Early Stopping\". Journal of Machine Learning Research, 20(46):1-36, 2019.
+. Y. Lei, U. Dogan, D.-X. Zhou and M. Kloft. \"Data-dependent Generalization Bounds for Multi-class Classification\". IEEE Transactions on Information Theory, 65(5): 2995-3021, 2019. [slide/TIT2019.pdf Talk Slides]
+. Y. Lei and D.-X. Zhou. \"Analysis of Singular Value Thresholding Algorithm for Matrix Completion\". Journal of Fourier Analysis and Applications, 25 (6):2957-2972, 2019.
+. N. Yousefi, Y. Lei, M. Kloft, M. Mollaghasemi and G. Anagnostopoulos. \"Local Rademacher Complexity-based Learning Guarantees for Multi-task Learning\". Journal of Machine Learning Research, 19(38):1-47, 2018.
+. Y. Lei, L. Shi and Z.-C. Guo. \"Convergence of Unregularized Online Learning Algorithms\". Journal of Machine Learning Research, 18(171):1-33, 2018.
+. Y. Lei and D.-X. Zhou. \"Learning Theory of Randomized Sparse Kaczmarz Method\". SIAM Journal on Imaging Sciences, 11(1):547-574, 2018.
+. J. Lin, Y. Lei, B. Zhang and D.-X. Zhou. \"Online Pairwise Learning Algorithms with Convex Loss Functions\". Information Sciences, 406-407(9):57-70, 2017.
+. Y. Lei and D.-X. Zhou. \"Analysis of Online Composite Mirror Descent Algorithm\". Neural Computation, 29(3):825-860, 2017.
+. Y. Lei and Y. Ying. \"Generalization Analysis of Multi-modal Metric Learning\". Analysis and Applications, 14(4): 503-521 (2016).
+. Y. Lei, L. Ding and W. Zhang. \"Generalization Performance of Radial Basis Function Networks\". IEEE Transactions on Neural Networks and Learning Systems, 26(3):551-564, 2015.
+
+
+=== Conference Publications 
+. Y. Lei, A. Ledent and M. Kloft. \"Sharper Generalization Bounds for Pairwise Learning\". In Advances in Neural Information Processing Systems, 2020. [slide/NeurIPS2020.pdf Talk Slides]
+. Z. Yang, B. Zhou, Y. Lei and Y. Ying. \"Stochastic Hard Thresholding Algorithms for AUC Maximization\". IEEE International Conference on Data Mining, 2020.
+. Y. Lei and Y. Ying. \"Fine-Grained Analysis of Stability and Generalization for Stochastic Gradient Descent\". In International Conference on Machine Learning, pages 5809-5819, 2020. [slide/ICML2020.pdf Talk Slides]
+. S. Liu, K. Tang, Y. Lei and X. Yao. \"On Performance Estimation in Automatic Algorithm Configuration\". In Association for the Advancement of Artificial Intelligence, pages 1526--1536, 2020.
+. Y. Lei, P. Yang, K. Tang and D.-X. Zhou. \"Optimal Stochastic and Online Learning with Individual Iterates\". In Advances in Neural Information Processing Systems, pages 5416-5426, 2019.  (*Spotlight*, [slide/NeurIPS2019.pdf Talk Slides])
+. Y. Lei and K. Tang. \"Stochastic Composite Mirror Descent: Optimal Bounds with High Probabilities\". In Advances in Neural Information Processing Systems, pages 1526-1536, 2018.
+. Y. Lei, S.-B. Lin and K. Tang. \"Generalization Bounds for Regularized Pairwise Learning\". In International Joint Conference on Artificial Intelligence, pages 2376-2382, 2018.
+. Y. Lei, A. Binder, U. Dogan and M. Kloft. \"Localized Multiple Kernel Learning-A Convex Approach\". In Asian Conference on Machine Learning, 63:81-96, 2016.
+. Y. Lei, U. Dogan, A. Binder and M. Kloft. \"Multi-class SVMs: From Tighter Data-Dependent Generalization Bounds to Novel Algorithms\". In Advances in Neural Information Processing Systems, pages 2026-2034, 2015.
+
+
+== Teaching
+- Neural Computation, University of Birmingham, Autumn 2020 (with Per Kristian Lehre, Jinming Duan and Shan He).
+- Machine Learning 3: Mathematics of ML (Lecture course), TU Kaiserslautern, Winter 2019/2020 (with Marius Kloft).
+- Intelligent Data Analysis (Lab course), SUSTech, Spring 2019.
+- Artificial Intelligence (Lab course), SUSTech, Autumn 2018.
+
+== Referee Experience
+: {Journal} 
+[https://www.worldscientific.com/worldscinet/aa AA], 
+[https://www.journals.elsevier.com/applied-and-computational-harmonic-analysis ACHA], 
+[https://www.journals.elsevier.com/journal-of-approximation-theory JAT], 
+[https://www.journals.elsevier.com/journal-of-complexity JoC], 
+[https://www.comsoc.org/publications/journals/ieee-jsac/cfp/machine-learning-communications-and-networks JSAC],
+[https://www.jmlr.org/ JMLR], 
+[https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18 TIT], 
+[https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34 TPAMI],
+[https://signalprocessingsociety.org/publications-resources/ieee-transactions-signal-processing/about-ieee-transactions-signal-processing TSP], 
+[https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385 TNNLS], 
+[https://www.springer.com/journal/10994 MLJ], 
+[https://www.journals.elsevier.com/neurocomputing NEUCOM],
+[https://www.journals.elsevier.com/neural-networks NEUNET],
+[https://www.mitpressjournals.org/loi/neco NEURCOMP]
+
+
+: {Conference} AAAI (2019-2021), ACML (2019, 2020), AISTATS (2016--2020), COLT (2018), ICLR (2018--2021), ICML (2018--2020), IJCAI (2019, 2020), NeurIPS (2016--2020) 
