@@ -33,6 +33,7 @@ My research interests lie in the areas of machine learning and learning theory, 
 
 
 === Conference Publications 
+. Z. Yang, Y. Lei, S. Lyu and Y. Ying. \"Stability and Differential Privacy of Stochastic Gradient Descent for Pairwise Learning with Non-Smooth Loss\". In International Conference on Artificial Intelligence and Statistics, (to appear) 2021.
 . Y. Lei and Y. Ying. \"Sharper Generalization Bounds for Learning with Gradient-dominated Objective Functions\". In International Conference on Learning Representations, (to appear) 2021.
 . A. Ledent, W. Mustafa, Y. Lei and M. Kloft. \"Norm-based Generalisation Bounds for Convolutional Neural Networks\". In AAAI Conference on Artificial Intelligence, (to appear) 2021.
 . L. Wu, A. Ledent, Y. Lei and M. Kloft. \"Fine-grained Generalization Analysis of Vector-valued Learning\". In AAAI Conference on Artificial Intelligence, (to appear) 2021.
