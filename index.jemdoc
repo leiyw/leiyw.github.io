@@ -12,12 +12,16 @@ E-mail: /y.lei/ \[@\] bham.ac.uk
 ~~~
 
 == About Me
-I am a Lecturer at School of Computer Science, University of Birmingham. Previously, I was a [http://www.humboldt-foundation.org/pls/web/pub_hn_query.humboldtianer_details?p_lang=en&p_externe_id=4268809 Humboldt Research Fellow] at University of Kaiserslautern, a Research Assistant Professor at Southern University of Science and Technology, and a Postdoctoral Research Fellow at City University of Hong Kong. I obtained my PhD degree in Computer Science at Wuhan University in 2014.
+I am a Lecturer at School of Computer Science, University of Birmingham. Previously, I was a [http://www.humboldt-foundation.org/pls/web/pub_hn_query.humboldtianer_details?p_lang=en&p_externe_id=4268809 Humboldt Research Fellow] at University of Kaiserslautern, a Research Assistant Professor at Southern University of Science and Technology, and a Postdoctoral Research Fellow at City University of Hong Kong. I obtained my PhD degree in Computer Science at Wuhan University in 2014. I am also an External Affiliated Faculty in ML@UA Lab [https://sites.google.com/view/mlualbany].
+
+
 
 == Research
 My research interests lie in the areas of machine learning and learning theory, with emphasis on the following topics: online learning, deep learning, optimization and extreme classification. In particular, I am interested in developing and analyzing scalable optimization methods for large-scale learning problems.
 
 === Journal Publications 
+. Y. Lei and Y. Ying. \"Stochastic Proximal AUC Maximization.\". Journal of Machine Learning Research, (to appear) 2021.
+. Y. Lei, T. Hu and K. Tang. \"Generalization Performance of Multi-pass Stochastic Gradient Descent with Convex Loss Functions\". Journal of Machine Learning Research, 22(25):1−41, 2021.
 . Y. Lei, T. Hu, G. Li and K. Tang. \"Stochastic Gradient Descent for Nonconvex Learning without Bounded Gradient Assumptions\". IEEE Transactions on Neural Networks and Learning Systems, 31(10):4394-4400, 2020.
 . Y. Lei and D.-X. Zhou. \"Convergence of Online Mirror Descent\". Applied Computational and Harmonic Analysis, 48(1):343-373, 2020. [slide/ACHA2020.pdf Talk Slides]
 . S.-B. Lin, Y. Lei and D.-X. Zhou. \"Boosted Kernel Ridge Regression: Optimal Learning Rates and Early Stopping\". Journal of Machine Learning Research, 20(46):1-36, 2019.
@@ -28,7 +32,7 @@ My research interests lie in the areas of machine learning and learning theory, 
 . Y. Lei and D.-X. Zhou. \"Learning Theory of Randomized Sparse Kaczmarz Method\". SIAM Journal on Imaging Sciences, 11(1):547-574, 2018.
 . J. Lin, Y. Lei, B. Zhang and D.-X. Zhou. \"Online Pairwise Learning Algorithms with Convex Loss Functions\". Information Sciences, 406-407(9):57-70, 2017.
 . Y. Lei and D.-X. Zhou. \"Analysis of Online Composite Mirror Descent Algorithm\". Neural Computation, 29(3):825-860, 2017.
-. Y. Lei and Y. Ying. \"Generalization Analysis of Multi-modal Metric Learning\". Analysis and Applications, 14(4): 503-521 (2016).
+. Y. Lei and Y. Ying. \"Generalization Analysis of Multi-modal Metric Learning\". Analysis and Applications, 14(4): 503-521, 2016.
 . Y. Lei, L. Ding and W. Zhang. \"Generalization Performance of Radial Basis Function Networks\". IEEE Transactions on Neural Networks and Learning Systems, 26(3):551-564, 2015.
 
 
@@ -63,6 +67,7 @@ My research interests lie in the areas of machine learning and learning theory, 
 [https://www.journals.elsevier.com/journal-of-complexity JoC], 
 [https://www.comsoc.org/publications/journals/ieee-jsac/cfp/machine-learning-communications-and-networks JSAC],
 [https://www.jmlr.org/ JMLR], 
+[https://onlinelibrary.wiley.com/journal/19321872 SAM],
 [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18 TIT], 
 [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34 TPAMI],
 [https://signalprocessingsociety.org/publications-resources/ieee-transactions-signal-processing/about-ieee-transactions-signal-processing TSP], 
