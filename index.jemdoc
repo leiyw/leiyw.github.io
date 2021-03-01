@@ -20,16 +20,16 @@ I am a Lecturer at School of Computer Science, University of Birmingham. Previou
 My research interests lie in the areas of machine learning and learning theory, with emphasis on the following topics: online learning, deep learning, optimization and extreme classification. In particular, I am interested in developing and analyzing scalable optimization methods for large-scale learning problems.
 
 === Journal Publications 
-. Y. Lei and Y. Ying. \"Stochastic Proximal AUC Maximization\". Journal of Machine Learning Research, (to appear) 2021.
-. Y. Lei, T. Hu and K. Tang. \"Generalization Performance of Multi-pass Stochastic Gradient Descent with Convex Loss Functions\". Journal of Machine Learning Research, 22(25):1−41, 2021.
-. Y. Lei, T. Hu, G. Li and K. Tang. \"Stochastic Gradient Descent for Nonconvex Learning without Bounded Gradient Assumptions\". IEEE Transactions on Neural Networks and Learning Systems, 31(10):4394-4400, 2020.
-. Y. Lei and D.-X. Zhou. \"Convergence of Online Mirror Descent\". Applied Computational and Harmonic Analysis, 48(1):343-373, 2020. [slide/ACHA2020.pdf Talk Slides]
-. S.-B. Lin, Y. Lei and D.-X. Zhou. \"Boosted Kernel Ridge Regression: Optimal Learning Rates and Early Stopping\". Journal of Machine Learning Research, 20(46):1-36, 2019.
+. Y. Lei and Y. Ying. \"[paper/19-418.pdf Stochastic Proximal AUC Maximization]\". Journal of Machine Learning Research, (to appear) 2021. 
+. Y. Lei, T. Hu and K. Tang. \"[paper/19-716.pdf Generalization Performance of Multi-pass Stochastic Gradient Descent with Convex Loss Functions]\". Journal of Machine Learning Research, 22(25):1−41, 2021.
+. Y. Lei, T. Hu, G. Li and K. Tang. \"[paper/TNNLS2020.pdf Stochastic Gradient Descent for Nonconvex Learning without Bounded Gradient Assumptions]\". IEEE Transactions on Neural Networks and Learning Systems, 31(10):4394-4400, 2020.
+. Y. Lei and D.-X. Zhou. \"[paperACHA2020.pdf Convergence of Online Mirror Descent]\". Applied Computational and Harmonic Analysis, 48(1):343-373, 2020. [slide/ACHA2020.pdf Talk Slides]
+. S.-B. Lin, Y. Lei and D.-X. Zhou. \"[paper/18-063.pdf Boosted Kernel Ridge Regression: Optimal Learning Rates and Early Stopping]\". Journal of Machine Learning Research, 20(46):1-36, 2019.
 . Y. Lei, U. Dogan, D.-X. Zhou and M. Kloft. \"Data-dependent Generalization Bounds for Multi-class Classification\". IEEE Transactions on Information Theory, 65(5): 2995-3021, 2019. [slide/TIT2019.pdf Talk Slides]
 . Y. Lei and D.-X. Zhou. \"Analysis of Singular Value Thresholding Algorithm for Matrix Completion\". Journal of Fourier Analysis and Applications, 25 (6):2957-2972, 2019.
-. N. Yousefi, Y. Lei, M. Kloft, M. Mollaghasemi and G. Anagnostopoulos. \"Local Rademacher Complexity-based Learning Guarantees for Multi-task Learning\". Journal of Machine Learning Research, 19(38):1-47, 2018.
-. Y. Lei, L. Shi and Z.-C. Guo. \"Convergence of Unregularized Online Learning Algorithms\". Journal of Machine Learning Research, 18(171):1-33, 2018.
-. Y. Lei and D.-X. Zhou. \"Learning Theory of Randomized Sparse Kaczmarz Method\". SIAM Journal on Imaging Sciences, 11(1):547-574, 2018.
+. N. Yousefi, Y. Lei, M. Kloft, M. Mollaghasemi and G. Anagnostopoulos. \"[paper/17-144.pdf Local Rademacher Complexity-based Learning Guarantees for Multi-task Learning]\". Journal of Machine Learning Research, 19(38):1-47, 2018.
+. Y. Lei, L. Shi and Z.-C. Guo. \"[paper/17-457.pdf Convergence of Unregularized Online Learning Algorithms]\". Journal of Machine Learning Research, 18(171):1-33, 2018.
+. Y. Lei and D.-X. Zhou. \"[paper/SIAM2018.pdf Learning Theory of Randomized Sparse Kaczmarz Method]\". SIAM Journal on Imaging Sciences, 11(1):547-574, 2018.
 . J. Lin, Y. Lei, B. Zhang and D.-X. Zhou. \"Online Pairwise Learning Algorithms with Convex Loss Functions\". Information Sciences, 406-407(9):57-70, 2017.
 . Y. Lei and D.-X. Zhou. \"Analysis of Online Composite Mirror Descent Algorithm\". Neural Computation, 29(3):825-860, 2017.
 . Y. Lei and Y. Ying. \"Generalization Analysis of Multi-modal Metric Learning\". Analysis and Applications, 14(4): 503-521, 2016.
@@ -38,18 +38,18 @@ My research interests lie in the areas of machine learning and learning theory, 
 
 === Conference Publications 
 . Z. Yang, Y. Lei, S. Lyu and Y. Ying. \"Stability and Differential Privacy of Stochastic Gradient Descent for Pairwise Learning with Non-Smooth Loss\". In International Conference on Artificial Intelligence and Statistics, (to appear) 2021.
-. Y. Lei and Y. Ying. \"Sharper Generalization Bounds for Learning with Gradient-dominated Objective Functions\". In International Conference on Learning Representations, (to appear) 2021. [slide/ICLR2021.pdf Talk Slides]
+. Y. Lei and Y. Ying. \"[paper/ICLR2021.pdf Sharper Generalization Bounds for Learning with Gradient-dominated Objective Functions]\". In International Conference on Learning Representations, (to appear) 2021. [slide/ICLR2021.pdf Talk Slides]
 . A. Ledent, W. Mustafa, Y. Lei and M. Kloft. \"Norm-based Generalisation Bounds for Convolutional Neural Networks\". In AAAI Conference on Artificial Intelligence, (to appear) 2021.
 . L. Wu, A. Ledent, Y. Lei and M. Kloft. \"Fine-grained Generalization Analysis of Vector-valued Learning\". In AAAI Conference on Artificial Intelligence, (to appear) 2021.
-. Y. Lei, A. Ledent and M. Kloft. \"Sharper Generalization Bounds for Pairwise Learning\". In Advances in Neural Information Processing Systems, 2020. [slide/NeurIPS2020.pdf Talk Slides]
+. Y. Lei, A. Ledent and M. Kloft. \"[paper/NeurIPS2020.pdf Sharper Generalization Bounds for Pairwise Learning]\". In Advances in Neural Information Processing Systems, 2020. [slide/NeurIPS2020.pdf Talk Slides]
 . Z. Yang, B. Zhou, Y. Lei and Y. Ying. \"Stochastic Hard Thresholding Algorithms for AUC Maximization\". In IEEE International Conference on Data Mining, 2020.
-. Y. Lei and Y. Ying. \"Fine-Grained Analysis of Stability and Generalization for Stochastic Gradient Descent\". In International Conference on Machine Learning, pages 5809-5819, 2020. [slide/ICML2020.pdf Talk Slides]
+. Y. Lei and Y. Ying. \"[paper/ICML2020.pdf Fine-Grained Analysis of Stability and Generalization for Stochastic Gradient Descent]\". In International Conference on Machine Learning, pages 5809-5819, 2020. [slide/ICML2020.pdf Talk Slides]
 . S. Liu, K. Tang, Y. Lei and X. Yao. \"On Performance Estimation in Automatic Algorithm Configuration\". In Association for the Advancement of Artificial Intelligence, pages 1526--1536, 2020.
-. Y. Lei, P. Yang, K. Tang and D.-X. Zhou. \"Optimal Stochastic and Online Learning with Individual Iterates\". In Advances in Neural Information Processing Systems, pages 5416-5426, 2019.  (*Spotlight*, [slide/NeurIPS2019.pdf Talk Slides])
-. Y. Lei and K. Tang. \"Stochastic Composite Mirror Descent: Optimal Bounds with High Probabilities\". In Advances in Neural Information Processing Systems, pages 1526-1536, 2018.
+. Y. Lei, P. Yang, K. Tang and D.-X. Zhou. \"[paper/NeurIPS2019.pdf Optimal Stochastic and Online Learning with Individual Iterates]\". In Advances in Neural Information Processing Systems, pages 5416-5426, 2019.  (*Spotlight*, [slide/NeurIPS2019.pdf Talk Slides])
+. Y. Lei and K. Tang. \"[paper/NeurIPS2018.pdf Stochastic Composite Mirror Descent: Optimal Bounds with High Probabilities]\". In Advances in Neural Information Processing Systems, pages 1526-1536, 2018.
 . Y. Lei, S.-B. Lin and K. Tang. \"Generalization Bounds for Regularized Pairwise Learning\". In International Joint Conference on Artificial Intelligence, pages 2376-2382, 2018.
-. Y. Lei, A. Binder, U. Dogan and M. Kloft. \"Localized Multiple Kernel Learning-A Convex Approach\". In Asian Conference on Machine Learning, 63:81-96, 2016.
-. Y. Lei, U. Dogan, A. Binder and M. Kloft. \"Multi-class SVMs: From Tighter Data-Dependent Generalization Bounds to Novel Algorithms\". In Advances in Neural Information Processing Systems, pages 2026-2034, 2015.
+. Y. Lei, A. Binder, U. Dogan and M. Kloft. \"[paper/ACML2016.pdf Localized Multiple Kernel Learning-A Convex Approach]\". In Asian Conference on Machine Learning, 63:81-96, 2016.
+. Y. Lei, U. Dogan, A. Binder and M. Kloft. \"[paper/NIPS2015.pdf Multi-class SVMs: From Tighter Data-Dependent Generalization Bounds to Novel Algorithms]\". In Advances in Neural Information Processing Systems, pages 2026-2034, 2015.
 
 
 == Teaching
