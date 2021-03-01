@@ -13,7 +13,7 @@ git pull
 python2 jemdoc.py index.jemdoc
 
 git add .
-git commit -m 'xxx（本次更新内容）'
+git commit -m '1'
 git push
 
 
