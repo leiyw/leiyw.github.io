@@ -20,7 +20,7 @@ I am a Lecturer at School of Computer Science, University of Birmingham. Previou
 My research interests lie in the areas of machine learning and learning theory, with emphasis on the following topics: online learning, deep learning, optimization and extreme classification. In particular, I am interested in developing and analyzing scalable optimization methods for large-scale learning problems.
 
 === Journal Publications 
-. Y. Lei and Y. Ying. \"Stochastic Proximal AUC Maximization.\". Journal of Machine Learning Research, (to appear) 2021.
+. Y. Lei and Y. Ying. \"Stochastic Proximal AUC Maximization\". Journal of Machine Learning Research, (to appear) 2021.
 . Y. Lei, T. Hu and K. Tang. \"Generalization Performance of Multi-pass Stochastic Gradient Descent with Convex Loss Functions\". Journal of Machine Learning Research, 22(25):1−41, 2021.
 . Y. Lei, T. Hu, G. Li and K. Tang. \"Stochastic Gradient Descent for Nonconvex Learning without Bounded Gradient Assumptions\". IEEE Transactions on Neural Networks and Learning Systems, 31(10):4394-4400, 2020.
 . Y. Lei and D.-X. Zhou. \"Convergence of Online Mirror Descent\". Applied Computational and Harmonic Analysis, 48(1):343-373, 2020. [slide/ACHA2020.pdf Talk Slides]
