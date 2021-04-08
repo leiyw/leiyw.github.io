@@ -21,7 +21,7 @@ My research interests lie in the areas of machine learning and learning theory, 
 
 === Journal Publications 
 . Y. Lei and K. Tang. \"[paper/TPAMI2021.pdf Learning Rates for Stochastic Gradient Descent with Nonconvex Objectives]\". IEEE Transactions on Pattern Analysis and Machine Intelligence, (to appear) 2021. 
-. Y. Lei and Y. Ying. \"[paper/19-418.pdf Stochastic Proximal AUC Maximization]\". Journal of Machine Learning Research, (to appear) 2021. 
+. Y. Lei and Y. Ying. \"[paper/19-418.pdf Stochastic Proximal AUC Maximization]\". Journal of Machine Learning Research, 22(61):1-45, 2021. 
 . Y. Lei, T. Hu and K. Tang. \"[paper/19-716.pdf Generalization Performance of Multi-pass Stochastic Gradient Descent with Convex Loss Functions]\". Journal of Machine Learning Research, 22(25):1−41, 2021.
 . Y. Lei, T. Hu, G. Li and K. Tang. \"[paper/TNNLS2020.pdf Stochastic Gradient Descent for Nonconvex Learning without Bounded Gradient Assumptions]\". IEEE Transactions on Neural Networks and Learning Systems, 31(10):4394-4400, 2020.
 . Y. Lei and D.-X. Zhou. \"[paper/ACHA2020.pdf Convergence of Online Mirror Descent]\". Applied Computational and Harmonic Analysis, 48(1):343-373, 2020. [slide/ACHA2020.pdf Talk Slides]
@@ -42,10 +42,10 @@ My research interests lie in the areas of machine learning and learning theory, 
 . Y. Lei and Y. Ying. \"[paper/ICLR2021.pdf Sharper Generalization Bounds for Learning with Gradient-dominated Objective Functions]\". In International Conference on Learning Representations, (to appear) 2021. [slide/ICLR2021.pdf Talk Slides]
 . A. Ledent, W. Mustafa, Y. Lei and M. Kloft. \"Norm-based Generalisation Bounds for Convolutional Neural Networks\". In AAAI Conference on Artificial Intelligence, (to appear) 2021.
 . L. Wu, A. Ledent, Y. Lei and M. Kloft. \"Fine-grained Generalization Analysis of Vector-valued Learning\". In AAAI Conference on Artificial Intelligence, (to appear) 2021.
-. Y. Lei, A. Ledent and M. Kloft. \"[paper/NeurIPS2020.pdf Sharper Generalization Bounds for Pairwise Learning]\". In Advances in Neural Information Processing Systems, 2020. [slide/NeurIPS2020.pdf Talk Slides]
+. Y. Lei, A. Ledent and M. Kloft. \"[paper/NeurIPS2020.pdf Sharper Generalization Bounds for Pairwise Learning]\". In Advances in Neural Information Processing Systems, pages 21236-21246, 2020. [slide/NeurIPS2020.pdf Talk Slides]
 . Z. Yang, B. Zhou, Y. Lei and Y. Ying. \"Stochastic Hard Thresholding Algorithms for AUC Maximization\". In IEEE International Conference on Data Mining, 2020.
 . Y. Lei and Y. Ying. \"[paper/ICML2020.pdf Fine-Grained Analysis of Stability and Generalization for Stochastic Gradient Descent]\". In International Conference on Machine Learning, pages 5809-5819, 2020. [slide/ICML2020.pdf Talk Slides]
-. S. Liu, K. Tang, Y. Lei and X. Yao. \"On Performance Estimation in Automatic Algorithm Configuration\". In Association for the Advancement of Artificial Intelligence, pages 1526--1536, 2020.
+. S. Liu, K. Tang, Y. Lei and X. Yao. \"On Performance Estimation in Automatic Algorithm Configuration\". In Association for the Advancement of Artificial Intelligence, pages 1526-1536, 2020.
 . Y. Lei, P. Yang, K. Tang and D.-X. Zhou. \"[paper/NeurIPS2019.pdf Optimal Stochastic and Online Learning with Individual Iterates]\". In Advances in Neural Information Processing Systems, pages 5416-5426, 2019.  (*Spotlight*, [slide/NeurIPS2019.pdf Talk Slides])
 . Y. Lei and K. Tang. \"[paper/NeurIPS2018.pdf Stochastic Composite Mirror Descent: Optimal Bounds with High Probabilities]\". In Advances in Neural Information Processing Systems, pages 1526-1536, 2018.
 . Y. Lei, S.-B. Lin and K. Tang. \"[paper/IJCAI2018.pdf Generalization Bounds for Regularized Pairwise Learning]\". In International Joint Conference on Artificial Intelligence, pages 2376-2382, 2018.
