@@ -19,7 +19,7 @@ git push
 
 git bash
 
-
+. Z. Yang, B. Zhou, Y. Lei and Y. Ying. \"Stochastic Hard Thresholding Algorithms for AUC Maximization\". In IEEE International Conference on Data Mining, 2020.
 # jemdoc: menu{MENU}{index.html}, nofooter  
 ==Yunwen Lei 
 
