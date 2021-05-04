@@ -20,6 +20,8 @@ git push
 git bash
 
 . Z. Yang, B. Zhou, Y. Lei and Y. Ying. \"Stochastic Hard Thresholding Algorithms for AUC Maximization\". In IEEE International Conference on Data Mining, 2020.
+. Y. Lei and K. Tang. \"[paper/TPAMI2021.pdf Learning Rates for Stochastic Gradient Descent with Nonconvex Objectives]\". IEEE Transactions on Pattern Analysis and Machine Intelligence, (to appear) 2021. 
+. S. Liu, K. Tang, Y. Lei and X. Yao. \"On Performance Estimation in Automatic Algorithm Configuration\". In Association for the Advancement of Artificial Intelligence, pages 1526-1536, 2020.
 # jemdoc: menu{MENU}{index.html}, nofooter  
 ==Yunwen Lei 
 
