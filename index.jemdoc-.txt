@@ -43,6 +43,8 @@ My research interests lie in the areas of machine learning and learning theory, 
 . Y. Lei, A. Binder, U. Dogan and M. Kloft. \"Localized Multiple Kernel Learning-A Convex Approach\". In Asian Conference on Machine Learning, 63:81-96, 2016.
 . Y. Lei, U. Dogan, A. Binder and M. Kloft. \"Multi-class SVMs: From Tighter Data-Dependent Generalization Bounds to Novel Algorithms\". In Advances in Neural Information Processing Systems, pages 2026-2034, 2015.
 
+. A. Ledent, W. Mustafa, Y. Lei and M. Kloft. \"Norm-based Generalisation Bounds for Convolutional Neural Networks\". In AAAI Conference on Artificial Intelligence, (to appear) 2021.
+. L. Wu, A. Ledent, Y. Lei and M. Kloft. \"Fine-grained Generalization Analysis of Vector-valued Learning\". In AAAI Conference on Artificial Intelligence, (to appear) 2021.
 
 == Teaching
 - Neural Computation, University of Birmingham, Autumn 2020 (with Per Kristian Lehre, Jinming Duan and Shan He).

@@ -81,3 +81,12 @@ multipliers (ADMM): quadratic problems \", IEEE Transactions on Automatic Contro
 . Y. Lei, L. Ding and W. Zhang. \"Generalization Performance of Radial Basis Function Networks\". IEEE Transactions on Neural Networks and Learning Systems, 26(3):551-564, 2015.
 . Y. Lei, U. Dogan, A. Binder and M. Kloft. \"Multi-class SVMs: From Tighter Data-Dependent Generalization Bounds to Novel Algorithms\". In Advances in Neural Information Processing Systems, pages 2026-2034, 2015.
 . S. Liu, K. Tang, Y. Lei and X. Yao. \"On Performance Estimation in Automatic Algorithm Configuration\". In Association for the Advancement of Artificial Intelligence, pages 1526--1536, 2020.
+
+
+. A. Ledent, W. Mustafa, Y. Lei and M. Kloft. \"Norm-based Generalisation Bounds for Convolutional Neural Networks\". In AAAI Conference on Artificial Intelligence, (to appear) 2021.
+. L. Wu, A. Ledent, Y. Lei and M. Kloft. \"Fine-grained Generalization Analysis of Vector-valued Learning\". In AAAI Conference on Artificial Intelligence, (to appear) 2021.
+== Teaching
+- Neural Computation, University of Birmingham, Autumn 2020 (with Per Kristian Lehre, Jinming Duan and Shan He).
+- Machine Learning 3: Mathematics of ML (Lecture course), TU Kaiserslautern, Winter 2019/2020 (with Marius Kloft).
+- Intelligent Data Analysis (Lab course), SUSTech, Spring 2019.
+- Artificial Intelligence (Lab course), SUSTech, Autumn 2018.
