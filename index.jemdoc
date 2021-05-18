@@ -31,10 +31,10 @@ My research interests lie in the areas of machine learning and learning theory, 
 . N. Yousefi, Y. Lei, M. Kloft, M. Mollaghasemi and G. Anagnostopoulos. \"[paper/17-144.pdf Local Rademacher Complexity-based Learning Guarantees for Multi-task Learning]\". Journal of Machine Learning Research, 19(38):1-47, 2018.
 . Y. Lei, L. Shi and Z.-C. Guo. \"[paper/17-457.pdf Convergence of Unregularized Online Learning Algorithms]\". Journal of Machine Learning Research, 18(171):1-33, 2018.
 . Y. Lei and D.-X. Zhou. \"[paper/SIAM2018.pdf Learning Theory of Randomized Sparse Kaczmarz Method]\". SIAM Journal on Imaging Sciences, 11(1):547-574, 2018.
-. J. Lin, Y. Lei, B. Zhang and D.-X. Zhou. \"Online Pairwise Learning Algorithms with Convex Loss Functions\". Information Sciences, 406-407(9):57-70, 2017.
-. Y. Lei and D.-X. Zhou. \"Analysis of Online Composite Mirror Descent Algorithm\". Neural Computation, 29(3):825-860, 2017.
-. Y. Lei and Y. Ying. \"Generalization Analysis of Multi-modal Metric Learning\". Analysis and Applications, 14(4): 503-521, 2016.
-. Y. Lei, L. Ding and W. Zhang. \"Generalization Performance of Radial Basis Function Networks\". IEEE Transactions on Neural Networks and Learning Systems, 26(3):551-564, 2015.
+. J. Lin, Y. Lei, B. Zhang and D.-X. Zhou. \"[paper/Pairwise2016.pdf Online Pairwise Learning Algorithms with Convex Loss Functions]\". Information Sciences, 406-407(9):57-70, 2017.
+. Y. Lei and D.-X. Zhou. \"[paper/Neco2016.pdf Analysis of Online Composite Mirror Descent Algorithm]\". Neural Computation, 29(3):825-860, 2017.
+. Y. Lei and Y. Ying. \"[paper/AA2016.pdf Generalization Analysis of Multi-modal Metric Learning]\". Analysis and Applications, 14(4): 503-521, 2016.
+. Y. Lei, L. Ding and W. Zhang. \"[paper/RBF2015.pdf Generalization Performance of Radial Basis Function Networks]\". IEEE Transactions on Neural Networks and Learning Systems, 26(3):551-564, 2015.
 
 
 === Selected Conference Publications 
