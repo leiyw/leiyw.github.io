@@ -38,6 +38,7 @@ My research interests lie in the areas of machine learning and learning theory, 
 
 
 === Selected Conference Publications 
+. Y. Lei, Z. Yang, T. Yang and Y. Ying. \"[paper/ICML2021.pdf Stability and Generalization of Stochastic Gradient Methods for Minimax Problems]\". In International Conference on Machine Learning, 2021. (+Long Presentation+ acceptance rate: 3%)
 . Y. Lei and Y. Ying. \"[paper/ICLR2021.pdf Sharper Generalization Bounds for Learning with Gradient-dominated Objective Functions]\". In International Conference on Learning Representations, 2021. [slide/ICLR2021.pdf Talk Slides]
 . Z. Yang, Y. Lei, S. Lyu and Y. Ying. \"[paper/yang21c.pdf Stability and Differential Privacy of Stochastic Gradient Descent for Pairwise Learning with Non-Smooth Loss]\". In International Conference on Artificial Intelligence and Statistics, pages 2026-2034, 2021.
 . Y. Lei, A. Ledent and M. Kloft. \"[paper/NeurIPS2020.pdf Sharper Generalization Bounds for Pairwise Learning]\". In Advances in Neural Information Processing Systems, pages 21236-21246, 2020. [slide/NeurIPS2020.pdf Talk Slides]
