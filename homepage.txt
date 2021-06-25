@@ -5,7 +5,8 @@ git commit -m "first commit"
 git remote add origin https://github.com/leiyw/leiyw.git
 git push -u origin master
 
-
+Make sure to copy your personal access token now. You won’t be able to see it again!
+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
 git remote set-url origin
 
 git pull
