@@ -20,6 +20,8 @@ git push
 
 git bash
 
+https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview?tx_rsmavhsolr_solrview%5BpPersonId%5D=1203562&cHash=3ceafd72df0adfba08344809df66d4b8
+
 . Z. Yang, B. Zhou, Y. Lei and Y. Ying. \"Stochastic Hard Thresholding Algorithms for AUC Maximization\". In IEEE International Conference on Data Mining, 2020.
 . Y. Lei and K. Tang. \"[paper/TPAMI2021.pdf Learning Rates for Stochastic Gradient Descent with Nonconvex Objectives]\". IEEE Transactions on Pattern Analysis and Machine Intelligence, (to appear) 2021. 
 . S. Liu, K. Tang, Y. Lei and X. Yao. \"On Performance Estimation in Automatic Algorithm Configuration\". In Association for the Advancement of Artificial Intelligence, pages 1526-1536, 2020.
