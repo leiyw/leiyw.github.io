@@ -20,7 +20,7 @@ I am a [https://www.birmingham.ac.uk/staff/profiles/computer-science/lei-yunwen.
 My research interests lie in the areas of machine learning and learning theory, with emphasis on the following topics: online learning, deep learning, optimization and extreme classification. In particular, I am interested in developing and analyzing scalable optimization methods for large-scale learning problems.
 
 === Selected Journal Publications 
-. P. Wang, Y. Lei, Y. Ying and H. Zhang. \"[paper/ACHA2021.pdf Differentially private SGD with non-smooth losses]\". Applied Computational and Harmonic Analysis,  (to appear) 2021.
+. P. Wang, Y. Lei, Y. Ying and H. Zhang. \"[paper/ACHA2021.pdf Differentially Private SGD with Non-smooth Losses]\". Applied Computational and Harmonic Analysis,  (to appear) 2021.
 . Y. Lei and K. Tang. \"[paper/TPAMI2021.pdf Learning Rates for Stochastic Gradient Descent with Nonconvex Objectives]\". IEEE Transactions on Pattern Analysis and Machine Intelligence, (to appear) 2021. 
 . Y. Lei and Y. Ying. \"[paper/19-418.pdf Stochastic Proximal AUC Maximization]\". Journal of Machine Learning Research, 22(61):1-45, 2021. 
 . Y. Lei, T. Hu and K. Tang. \"[paper/19-716.pdf Generalization Performance of Multi-pass Stochastic Gradient Descent with Convex Loss Functions]\". Journal of Machine Learning Research, 22(25):1−41, 2021.
@@ -63,6 +63,7 @@ My research interests lie in the areas of machine learning and learning theory, 
 : {Journal} 
 [https://www.worldscientific.com/worldscinet/aa AA], 
 [https://www.journals.elsevier.com/applied-and-computational-harmonic-analysis ACHA], 
+[https://www.journals.elsevier.com/artificial-intelligence AIJ], 
 [https://www.journals.elsevier.com/big-data-research BDR], 
 [https://www.sciencedirect.com/journal/information-sciences INS],
 [https://www.journals.elsevier.com/journal-of-approximation-theory JAT], 
@@ -72,6 +73,7 @@ My research interests lie in the areas of machine learning and learning theory, 
 [https://onlinelibrary.wiley.com/journal/19321872 SAM],
 [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18 TIT], 
 [https://dl.acm.org/journal/tkdd TKDD],
+[https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69 TKDE],
 [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34 TPAMI],
 [https://signalprocessingsociety.org/publications-resources/ieee-transactions-signal-processing/about-ieee-transactions-signal-processing TSP], 
 [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385 TNNLS], 
