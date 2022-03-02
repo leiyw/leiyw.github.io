@@ -12,7 +12,7 @@ E-mail: /y.lei/ \[@\] bham.ac.uk\n
 ~~~
 
 == About Me
-I am a [https://www.birmingham.ac.uk/staff/profiles/computer-science/lei-yunwen.aspx Lecturer] at School of Computer Science, University of Birmingham. Previously, I was a [https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview?tx_rsmavhsolr_solrview%5BpPersonId%5D=1203562&cHash=3ceafd72df0adfba08344809df66d4b8 Humboldt Research Fellow] at University of Kaiserslautern, a Research Assistant Professor at Southern University of Science and Technology, and a Postdoctoral Research Fellow at City University of Hong Kong. I obtained my PhD degree in Computer Science from Wuhan University, and my Bachelor degree in Mathematics from Hunan University. 
+I am a [https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/lei-yunwen.aspx Lecturer] at School of Computer Science, University of Birmingham. Previously, I was a [https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview?tx_rsmavhsolr_solrview%5BpPersonId%5D=1203562&cHash=3ceafd72df0adfba08344809df66d4b8 Humboldt Research Fellow] at University of Kaiserslautern, a Research Assistant Professor at Southern University of Science and Technology, and a Postdoctoral Research Fellow at City University of Hong Kong. I obtained my PhD degree in Computer Science from Wuhan University, and my Bachelor degree in Mathematics from Hunan University. 
 
 
 
@@ -20,7 +20,7 @@ I am a [https://www.birmingham.ac.uk/staff/profiles/computer-science/lei-yunwen.
 My research interests lie in the areas of machine learning and learning theory, with emphasis on the following topics: online learning, deep learning, optimization and extreme classification. In particular, I am interested in developing and analyzing scalable optimization methods for large-scale learning problems.
 
 === Selected Journal Publications 
-. P. Wang, Y. Lei, Y. Ying and H. Zhang. \"[paper/ACHA2021.pdf Differentially Private SGD with Non-smooth Losses]\". Applied Computational and Harmonic Analysis,  (to appear) 2021.
+. P. Wang, Y. Lei, Y. Ying and H. Zhang. \"[paper/ACHA2021.pdf Differentially Private SGD with Non-smooth Losses]\". Applied Computational and Harmonic Analysis, 56:306-336 2022.
 . Y. Lei and K. Tang. \"[paper/TPAMI2021.pdf Learning Rates for Stochastic Gradient Descent with Nonconvex Objectives]\". IEEE Transactions on Pattern Analysis and Machine Intelligence, (to appear) 2021. 
 . Y. Lei and Y. Ying. \"[paper/19-418.pdf Stochastic Proximal AUC Maximization]\". Journal of Machine Learning Research, 22(61):1-45, 2021. 
 . Y. Lei, T. Hu and K. Tang. \"[paper/19-716.pdf Generalization Performance of Multi-pass Stochastic Gradient Descent with Convex Loss Functions]\". Journal of Machine Learning Research, 22(25):1−41, 2021.
@@ -39,6 +39,9 @@ My research interests lie in the areas of machine learning and learning theory, 
 
 
 === Selected Conference Publications 
+. Y. Lei, M. Liu, Y. Ying. \"[paper/NeurIPS2021a.pdf Stability and Generalization of Stochastic Gradient Methods for Minimax Problems]\". In Advances in Neural Information Processing Systems, (to appear) 2021.  [slide/NeurIPS2021a.pdf Talk Slides]
+. Z. Yang, Y. Lei, P. Wang, T. Yang and Y. Ying. \"[paper/NeurIPS2021b.pdf Simple Stochastic and Online Gradient Descent Algorithms for Pairwise Learning]\". In Advances in Neural Information Processing Systems, (to appear) 2021.
+. A. Ledent, R. Alves, Y. Lei and M. Kloft. \"[paper/NeurIPS2021c.pdf Fine-grained Generalization Analysis of Inductive Matrix Completion]\". In Advances in Neural Information Processing Systems, (to appear) 2021. 
 . Y. Lei, Z. Yang, T. Yang and Y. Ying. \"[paper/ICML2021.pdf Stability and Generalization of Stochastic Gradient Methods for Minimax Problems]\". In International Conference on Machine Learning, pages 6175-6186, 2021. (+Long Presentation+ acceptance rate: 3%) [slide/ICML2021.pdf Talk Slides]
 . Y. Lei and Y. Ying. \"[paper/ICLR2021.pdf Sharper Generalization Bounds for Learning with Gradient-dominated Objective Functions]\". In International Conference on Learning Representations, 2021. [slide/ICLR2021.pdf Talk Slides]
 . Z. Yang, Y. Lei, S. Lyu and Y. Ying. \"[paper/yang21c.pdf Stability and Differential Privacy of Stochastic Gradient Descent for Pairwise Learning with Non-Smooth Loss]\". In International Conference on Artificial Intelligence and Statistics, pages 2026-2034, 2021.
