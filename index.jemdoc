@@ -39,9 +39,9 @@ My research interests lie in the areas of machine learning and learning theory, 
 
 
 === Selected Conference Publications 
-. Y. Lei, M. Liu, Y. Ying. \"[paper/NeurIPS2021a.pdf Generalization Guarantee of SGD for Pairwise Learning]\". In Advances in Neural Information Processing Systems, (to appear) 2021.  [slide/NeurIPS2021a.pdf Talk Slides]
-. Z. Yang, Y. Lei, P. Wang, T. Yang and Y. Ying. \"[paper/NeurIPS2021b.pdf Simple Stochastic and Online Gradient Descent Algorithms for Pairwise Learning]\". In Advances in Neural Information Processing Systems, (to appear) 2021.
-. A. Ledent, R. Alves, Y. Lei and M. Kloft. \"[paper/NeurIPS2021c.pdf Fine-grained Generalization Analysis of Inductive Matrix Completion]\". In Advances in Neural Information Processing Systems, (to appear) 2021. 
+. Y. Lei, M. Liu, Y. Ying. \"[paper/NeurIPS2021a.pdf Generalization Guarantee of SGD for Pairwise Learning]\". In Advances in Neural Information Processing Systems, pages 21216-21228, 2021.  [slide/NeurIPS2021a.pdf Talk Slides]
+. Z. Yang, Y. Lei, P. Wang, T. Yang and Y. Ying. \"[paper/NeurIPS2021b.pdf Simple Stochastic and Online Gradient Descent Algorithms for Pairwise Learning]\". In Advances in Neural Information Processing Systems, pages 20160-20171, 2021.
+. A. Ledent, R. Alves, Y. Lei and M. Kloft. \"[paper/NeurIPS2021c.pdf Fine-grained Generalization Analysis of Inductive Matrix Completion]\". In Advances in Neural Information Processing Systems, pages 25540--25552, 2021. 
 . Y. Lei, Z. Yang, T. Yang and Y. Ying. \"[paper/ICML2021.pdf Stability and Generalization of Stochastic Gradient Methods for Minimax Problems]\". In International Conference on Machine Learning, pages 6175-6186, 2021. (+Long Presentation+ acceptance rate: 3%) [slide/ICML2021.pdf Talk Slides]
 . Y. Lei and Y. Ying. \"[paper/ICLR2021.pdf Sharper Generalization Bounds for Learning with Gradient-dominated Objective Functions]\". In International Conference on Learning Representations, 2021. [slide/ICLR2021.pdf Talk Slides]
 . Z. Yang, Y. Lei, S. Lyu and Y. Ying. \"[paper/yang21c.pdf Stability and Differential Privacy of Stochastic Gradient Descent for Pairwise Learning with Non-Smooth Loss]\". In International Conference on Artificial Intelligence and Statistics, pages 2026-2034, 2021.
@@ -77,6 +77,7 @@ My research interests lie in the areas of machine learning and learning theory, 
 [https://www.comsoc.org/publications/journals/ieee-jsac/cfp/machine-learning-communications-and-networks JSAC],
 [https://www.jmlr.org/ JMLR], 
 [https://onlinelibrary.wiley.com/journal/19321872 SAM],
+[https://www.siam.org/publications/journals/siam-journal-on-matrix-analysis-and-applications-simax SIMAX],
 [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=18 TIT], 
 [https://dl.acm.org/journal/tkdd TKDD],
 [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69 TKDE],
