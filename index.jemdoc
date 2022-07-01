@@ -40,7 +40,7 @@ My research interests lie in the areas of machine learning and learning theory, 
 
 === Selected Conference Publications 
 . W. Mustafa, Y. Lei and M. Kloft. \"[paper/ICML2022.pdf On the Generalization Analysis of Adversarial Learning]\". In International Conference on Machine Learning (ICML), (to appear) 2022.
-. Z. Huang, Y. Lei and A. Kaban. \"[paper/ECML.pdf Noise-efficient Learning of Differentially Private Partitioning Machine Ensembles]\". In {\em European Conference on Machine Learning} (ECML), (to appear) 2022.
+. Z. Huang, Y. Lei and A. Kaban. \"[paper/ECML2022.pdf Noise-efficient Learning of Differentially Private Partitioning Machine Ensembles]\". In {\em European Conference on Machine Learning} (ECML), (to appear) 2022.
 . Z. Yang, S. Hu, Y. Lei, K. Varshney, S. Lyu, Y. Ying. \"[paper/UAI2022.pdf Differentially Private SGDA for Minimax Problems]\". In {\em  Uncertainty in Artificial Intelligence} (UAI), (to appear) 2022.
 . Y. Lei, M. Liu and Y. Ying. \"[paper/NeurIPS2021a.pdf Generalization Guarantee of SGD for Pairwise Learning]\". In Advances in Neural Information Processing Systems, pages 21216-21228, 2021.  [slide/NeurIPS2021a.pdf Talk Slides]
 . Z. Yang, Y. Lei, P. Wang, T. Yang and Y. Ying. \"[paper/NeurIPS2021b.pdf Simple Stochastic and Online Gradient Descent Algorithms for Pairwise Learning]\". In Advances in Neural Information Processing Systems, pages 20160-20171, 2021.
