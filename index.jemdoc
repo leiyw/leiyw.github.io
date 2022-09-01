@@ -22,7 +22,6 @@ My research interests lie in the areas of machine learning and learning theory, 
 === Selected Journal Publications 
 . Y. Lei and T. Hu. \"[paper/JMLR2022.pdf Early Stopping for Iterative Regularization with General Loss Functions\"]. Journal of Machine Learning Research, (to appear) 2022.
 . P. Wang, Y. Lei, Y. Ying and H. Zhang. \"[paper/ACHA2021.pdf Differentially Private SGD with Non-smooth Losses]\". Applied Computational and Harmonic Analysis, 56:306-336, 2022.
-. Y. Lei and T. Hu. \"[paper/JMLR2022.pdf Differentially Private SGD with Non-smooth Losses]\". Journal of Machine Learning Research, (to appear) 2022.
 . Y. Lei and K. Tang. \"[paper/TPAMI2021.pdf Learning Rates for Stochastic Gradient Descent with Nonconvex Objectives]\". IEEE Transactions on Pattern Analysis and Machine Intelligence, 43(12): 4505--4511, 2021.
 . Y. Lei and Y. Ying. \"[paper/19-418.pdf Stochastic Proximal AUC Maximization]\". Journal of Machine Learning Research, 22(61):1-45, 2021. 
 . Y. Lei, T. Hu and K. Tang. \"[paper/19-716.pdf Generalization Performance of Multi-pass Stochastic Gradient Descent with Convex Loss Functions]\". Journal of Machine Learning Research, 22(25):1−41, 2021.
