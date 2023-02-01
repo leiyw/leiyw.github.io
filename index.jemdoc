@@ -12,7 +12,7 @@ E-mail: /y.lei/ \[@\] bham.ac.uk\n
 ~~~
 
 == About Me
-I am a [https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/lei-yunwen.aspx Lecturer] at School of Computer Science, University of Birmingham. Previously, I was a [https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview?tx_rsmavhsolr_solrview%5BpPersonId%5D=1203562&cHash=3ceafd72df0adfba08344809df66d4b8 Humboldt Research Fellow] at University of Kaiserslautern, a Research Assistant Professor at Southern University of Science and Technology, and a Postdoctoral Research Fellow at City University of Hong Kong. I obtained my PhD degree in Computer Science from Wuhan University, and my Bachelor degree in Mathematics from Hunan University. 
+I am a [https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/lei-yunwen.aspx Lecturer] at School of Computer Science, University of Birmingham. Previously, I was a [https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview?tx_rsmavhsolr_solrviewhumboldtians%5BpPersonId%5D=1203562&cHash=649af7ffa9150b9ad53a5445e4e369b2 Humboldt Research Fellow] at University of Kaiserslautern, a Research Assistant Professor at Southern University of Science and Technology, and a Postdoctoral Research Fellow at City University of Hong Kong. I obtained my PhD degree in Computer Science from Wuhan University, and my Bachelor degree in Mathematics from Hunan University. 
 
 
 
@@ -20,6 +20,7 @@ I am a [https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-st
 My research interests lie in the areas of machine learning and learning theory, with emphasis on the following topics: online learning, deep learning, optimization and extreme classification. In particular, I am interested in developing and analyzing scalable optimization methods for large-scale learning problems.
 
 === Selected Journal Publications 
+. T. Hu and Y. Lei. \"[paper/21-0983.pdf Early Stopping for Iterative Regularization with General Loss Functions]\". Journal of Machine Learning Research, 23:1--36, 2022.
 . P. Wang, Y. Lei, Y. Ying and H. Zhang. \"[paper/ACHA2021.pdf Differentially Private SGD with Non-smooth Losses]\". Applied Computational and Harmonic Analysis, 56:306-336, 2022.
 . Y. Lei and K. Tang. \"[paper/TPAMI2021.pdf Learning Rates for Stochastic Gradient Descent with Nonconvex Objectives]\". IEEE Transactions on Pattern Analysis and Machine Intelligence, 43(12): 4505--4511, 2021.
 . Y. Lei and Y. Ying. \"[paper/19-418.pdf Stochastic Proximal AUC Maximization]\". Journal of Machine Learning Research, 22(61):1-45, 2021. 
@@ -39,7 +40,11 @@ My research interests lie in the areas of machine learning and learning theory, 
 
 
 === Selected Conference Publications 
-. W. Mustafa, Y. Lei and M. Kloft. \"[paper/ICML2022.pdf On the Generalization Analysis of Adversarial Learning]\". In International Conference on Machine Learning, (to appear) 2022.
+. S. Fu, Y. Lei, Q. Cao, X. Tian and D. Tao. \"[paper/ICLR2023.pdf Sharper Bounds for Uniformly Stable Algorithms with Stationary mixing Process]\". In International Conference on Learning Representations, (to appear) 2023.
+. Y. Lei, R. Jin and Y. Ying. \"[paper/NeurIPS2022a.pdf Stability and Generalization Analysis of Gradient Methods for Shallow Neural Networks]\". In Advances in Neural Information Processing Systems, (to appear) 2022.
+. P. Wang, Y. Lei, Y. Ying and D.-X. Zhou. \"[paper/NeurIPS2022b.pdf Stability and Generalization for Markov Chain Stochastic Gradient Methods]\". In Advances in Neural Information Processing Systems, (to appear) 2022.
+. M. Liu, Z. Zhang, Y. Lei and C. Liao. \"[paper/NeurIPS2022c.pdf A Communication-Efficient Distributed Gradient Clipping Algorithm for Training Deep Neural Networks]\". In Advances in Neural Information Processing Systems, (to appear) 2022.
+. W. Mustafa, Y. Lei and M. Kloft. \"[paper/ICML2022.pdf On the Generalization Analysis of Adversarial Learning]\". In International Conference on Machine Learning, pages 16174--16196, 2022.
 . Z. Huang, Y. Lei and A. Kaban. \"[paper/ECML2022.pdf Noise-efficient Learning of Differentially Private Partitioning Machine Ensembles]\". In European Conference on Machine Learning, (to appear) 2022.
 . Z. Yang, S. Hu, Y. Lei, K. Varshney, S. Lyu, Y. Ying. \"[paper/UAI2022.pdf Differentially Private SGDA for Minimax Problems]\". In Uncertainty in Artificial Intelligence, (to appear) 2022.
 . Y. Lei, M. Liu and Y. Ying. \"[paper/NeurIPS2021a.pdf Generalization Guarantee of SGD for Pairwise Learning]\". In Advances in Neural Information Processing Systems, pages 21216-21228, 2021.  [slide/NeurIPS2021a.pdf Talk Slides]
@@ -96,4 +101,4 @@ My research interests lie in the areas of machine learning and learning theory, 
 [https://www.mitpressjournals.org/loi/neco NEURCOMP]
 
 
-: {Conference} AAAI (2019-2022), ACML (2019--2022), AISTATS (2016--2022), COLT (2018), ECML (2021, 2022), ICLR (2018--2022), ICML (2018--2022), IJCAI (2019--2022), NeurIPS (2016--2022) 
+: {Conference} AAAI (2019-2022), ACML (2019--2022), AISTATS (2016--2023), COLT (2018), ECML (2021, 2022), ICLR (2018--2023), ICML (2018--2023), IJCAI (2019--2023), NeurIPS (2016--2022) 
