@@ -19,6 +19,7 @@ I am an Assistant Professor at the Department of Mathematics, Hong Kong Baptist 
 My research interests lie in the areas of machine learning and learning theory, with emphasis on the following topics: online learning, deep learning, optimization and extreme classification. In particular, I am interested in developing and analyzing scalable optimization methods for large-scale learning problems.
 
 === Journal Publications 
+. Z. Huang, Y. Lei and A. Kaban. \"Optimisation and Learning with Randomly Compressed Gradient Updates\". Neural Computation, (to appear) 2023.
 . T. Hu and Y. Lei. \"[paper/21-0983.pdf Early Stopping for Iterative Regularization with General Loss Functions]\". Journal of Machine Learning Research, 23:1--36, 2022.
 . P. Wang, Y. Lei, Y. Ying and H. Zhang. \"[paper/ACHA2021.pdf Differentially Private SGD with Non-smooth Losses]\". Applied Computational and Harmonic Analysis, 56:306-336, 2022.
 . Y. Lei and K. Tang. \"[paper/TPAMI2021.pdf Learning Rates for Stochastic Gradient Descent with Nonconvex Objectives]\". IEEE Transactions on Pattern Analysis and Machine Intelligence, 43(12): 4505--4511, 2021.
@@ -100,4 +101,4 @@ My research interests lie in the areas of machine learning and learning theory, 
 [https://www.mitpressjournals.org/loi/neco NEURCOMP]
 
 
-: {Conference} AAAI (2019-2022), ACML (2019--2022), AISTATS (2016--2023), COLT (2018), ECML (2021, 2022), ICLR (2018--2023), ICML (2018--2023), IJCAI (2019--2023), NeurIPS (2016--2022) 
+: {Conference} AAAI (2019-2022), ACML (2019--2022), AISTATS (2016--2023), COLT (2018), ECML (2021, 2022), ICLR (2018--2023), ICML (2018--2023), IJCAI (2019--2023), NeurIPS (2016--2022), UAI (2023) 
