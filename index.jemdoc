@@ -19,7 +19,7 @@ I am an Assistant Professor at the Department of Mathematics, Hong Kong Baptist 
 My research interests lie in the areas of machine learning and learning theory, with emphasis on the following topics: online learning, deep learning, optimization and extreme classification. In particular, I am interested in developing and analyzing scalable optimization methods for large-scale learning problems.
 
 === Journal Publications 
-. Z. Huang, Y. Lei and A. Kaban. \"Optimisation and Learning with Randomly Compressed Gradient Updates\". Neural Computation, (to appear) 2023.
+. Z. Huang, Y. Lei and A. Kaban. \"[paper/Neco2023.pdf Optimisation and Learning with Randomly Compressed Gradient Updates]\". Neural Computation, (to appear) 2023.
 . T. Hu and Y. Lei. \"[paper/21-0983.pdf Early Stopping for Iterative Regularization with General Loss Functions]\". Journal of Machine Learning Research, 23:1--36, 2022.
 . P. Wang, Y. Lei, Y. Ying and H. Zhang. \"[paper/ACHA2021.pdf Differentially Private SGD with Non-smooth Losses]\". Applied Computational and Harmonic Analysis, 56:306-336, 2022.
 . Y. Lei and K. Tang. \"[paper/TPAMI2021.pdf Learning Rates for Stochastic Gradient Descent with Nonconvex Objectives]\". IEEE Transactions on Pattern Analysis and Machine Intelligence, 43(12): 4505--4511, 2021.
@@ -40,7 +40,6 @@ My research interests lie in the areas of machine learning and learning theory, 
 
 
 === Conference Publications 
-. S. Fu, Y. Lei, Q. Cao, X. Tian and D. Tao. \"[https://openreview.net/forum?id=8E5Yazboyh Sharper Bounds for Uniformly Stable Algorithms with Stationary Mixing Process]\". In International Conference on Learning Representations, (to appear) 2023.
 . Y. Lei, R. Jin and Y. Ying. \"[paper/NeurIPS2022a.pdf Stability and Generalization Analysis of Gradient Methods for Shallow Neural Networks]\". In Advances in Neural Information Processing Systems, (to appear) 2022.
 . P. Wang, Y. Lei, Y. Ying and D.-X. Zhou. \"[paper/NeurIPS2022b.pdf Stability and Generalization for Markov Chain Stochastic Gradient Methods]\". In Advances in Neural Information Processing Systems, (to appear) 2022.
 . M. Liu, Z. Zhang, Y. Lei and C. Liao. \"[paper/NeurIPS2022c.pdf A Communication-Efficient Distributed Gradient Clipping Algorithm for Training Deep Neural Networks]\". In Advances in Neural Information Processing Systems, (to appear) 2022. (+Spotlight+ acceptance rate: 5%)
