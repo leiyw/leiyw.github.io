@@ -3,23 +3,19 @@
 
 ~~~
 {}{img_left}{yunwen.jpg}{Yunwen Lei}
-PhD,\n [https://www.math.hkbu.edu.hk/ Department of Mathematics], \n [https://www.hkbu.edu.hk/ Hong Kong Baptist University]\n
-Kowloon Tong\n
-Kowloon\n
+PhD,\n [https://hkumath.hku.hk/web/index.php Department of Mathematics], \n [https://www.hkbu.edu.hk/ The University of Hong Kong]\n
+Pokfulam\n
 Hong Kong\n
-E-mail: /yunwen/ \[@\] hkbu.edu.hk\n
+E-mail: /leiyw/ \[@\] hku.hk\n
 ~~~
 
 == About Me
-I am an Assistant Professor at the Department of Mathematics, Hong Kong Baptist University. Previously, I was a Lecturer at School of Computer Science, University of Birmingham, a [https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview?tx_rsmavhsolr_solrviewhumboldtians%5BpPersonId%5D=1203562&cHash=649af7ffa9150b9ad53a5445e4e369b2 Humboldt Research Fellow] at University of Kaiserslautern, a Research Assistant Professor at Southern University of Science and Technology, and a Postdoctoral Research Fellow at City University of Hong Kong. I obtained my PhD degree in Computer Science from Wuhan University, and my Bachelor degree in Mathematics from Hunan University. 
-
+I am an Assistant Professor at the Department of Mathematics, The University of Hong Kong. My research interests lie in the areas of machine learning and learning theory, with emphasis on the following topics: online learning, deep learning and stochastic optimization. In particular, I am interested in developing and analyzing scalable optimization methods for large-scale learning problems.
 
 
 == Research
-My research interests lie in the areas of machine learning and learning theory, with emphasis on the following topics: online learning, deep learning, optimization and extreme classification. In particular, I am interested in developing and analyzing scalable optimization methods for large-scale learning problems.
-
 === Journal Publications 
-. Z. Huang, Y. Lei and A. Kaban. \"[paper/Neco2023.pdf Optimisation and Learning with Randomly Compressed Gradient Updates]\". Neural Computation, (to appear) 2023.
+. Z. Huang, Y. Lei and A. Kaban. \"[paper/Neco2023.pdf Optimisation and Learning with Randomly Compressed Gradient Updates]\". Neural Computation, 35 (7): 1234–1287, 2023.
 . T. Hu and Y. Lei. \"[paper/21-0983.pdf Early Stopping for Iterative Regularization with General Loss Functions]\". Journal of Machine Learning Research, 23:1--36, 2022.
 . P. Wang, Y. Lei, Y. Ying and H. Zhang. \"[paper/ACHA2021.pdf Differentially Private SGD with Non-smooth Losses]\". Applied Computational and Harmonic Analysis, 56:306-336, 2022.
 . Y. Lei and K. Tang. \"[paper/TPAMI2021.pdf Learning Rates for Stochastic Gradient Descent with Nonconvex Objectives]\". IEEE Transactions on Pattern Analysis and Machine Intelligence, 43(12): 4505--4511, 2021.
@@ -40,9 +36,12 @@ My research interests lie in the areas of machine learning and learning theory, 
 
 
 === Conference Publications 
-. Y. Lei, R. Jin and Y. Ying. \"[paper/NeurIPS2022a.pdf Stability and Generalization Analysis of Gradient Methods for Shallow Neural Networks]\". In Advances in Neural Information Processing Systems, (to appear) 2022.
-. P. Wang, Y. Lei, Y. Ying and D.-X. Zhou. \"[paper/NeurIPS2022b.pdf Stability and Generalization for Markov Chain Stochastic Gradient Methods]\". In Advances in Neural Information Processing Systems, (to appear) 2022.
-. M. Liu, Z. Zhang, Y. Lei and C. Liao. \"[paper/NeurIPS2022c.pdf A Communication-Efficient Distributed Gradient Clipping Algorithm for Training Deep Neural Networks]\". In Advances in Neural Information Processing Systems, (to appear) 2022. (+Spotlight+ acceptance rate: 5%)
+. Y. Lei.  \"[paper/COLT2023.pdf Stability and Generalization of Stochastic Optimization with Nonconvex and Nonsmooth Problems]\". In Conference on Learning Theory, (to appear) 2023.
+. Y. Lei, T. Yang, Y. Ying and D.-X. Zhou.  \"[paper/ICML2023.pdf Generalization Analysis for Contrastive Representation Learning]\". In  International Conference on Machine Learning, (to appear) 2023.
+. S. Fu, Y. Lei, Q. Cao, X. Tian and D. Tao. \"[https://openreview.net/forum?id=8E5Yazboyh Sharper Bounds for Uniformly Stable Algorithms with Stationary mixing Process]\". In International Conference on Learning Representations, 2023.
+. Y. Lei, R. Jin and Y. Ying. \"[paper/NeurIPS2022a.pdf Stability and Generalization Analysis of Gradient Methods for Shallow Neural Networks]\". In Advances in Neural Information Processing Systems, pages 38557--38570, 2022.
+. P. Wang, Y. Lei, Y. Ying and D.-X. Zhou. \"[paper/NeurIPS2022b.pdf Stability and Generalization for Markov Chain Stochastic Gradient Methods]\". In Advances in Neural Information Processing Systems, pages 37735--37748, 2022.
+. M. Liu, Z. Zhang, Y. Lei and C. Liao. \"[paper/NeurIPS2022c.pdf A Communication-Efficient Distributed Gradient Clipping Algorithm for Training Deep Neural Networks]\". In Advances in Neural Information Processing Systems, pages 26204--26217, 2022. (+Spotlight+ acceptance rate: 5%)
 . W. Mustafa, Y. Lei and M. Kloft. \"[paper/ICML2022.pdf On the Generalization Analysis of Adversarial Learning]\". In International Conference on Machine Learning, pages 16174--16196, 2022.
 . Z. Huang, Y. Lei and A. Kaban. \"[paper/ECML2022.pdf Noise-efficient Learning of Differentially Private Partitioning Machine Ensembles]\". In European Conference on Machine Learning, (to appear) 2022.
 . Z. Yang, S. Hu, Y. Lei, K. Varshney, S. Lyu, Y. Ying. \"[paper/UAI2022.pdf Differentially Private SGDA for Minimax Problems]\". In Uncertainty in Artificial Intelligence, pages 2192-2202, 2022.
@@ -60,14 +59,6 @@ My research interests lie in the areas of machine learning and learning theory, 
 . Y. Lei, A. Binder, U. Dogan and M. Kloft. \"[paper/ACML2016.pdf Localized Multiple Kernel Learning-A Convex Approach]\". In Asian Conference on Machine Learning, 63:81-96, 2016.
 . Y. Lei, U. Dogan, A. Binder and M. Kloft. \"[paper/NIPS2015.pdf Multi-class SVMs: From Tighter Data-Dependent Generalization Bounds to Novel Algorithms]\". In Advances in Neural Information Processing Systems, pages 2026-2034, 2015.
 
-
-== Teaching
-- Current Topics in Artificial Intelligence and Machine Learning, University of Birmingham, Spring 2021 (with Jonathan Rowe and Peter Tino).
-- Artificial Intelligence, University of Birmingham, Spring 2021 (with Shan He, Miqing Li and Kashif Rajpoot).
-- Neural Computation, University of Birmingham, Autumn 2020 (with Per Kristian Lehre, Jinming Duan and Shan He).
-- Machine Learning 3: Mathematics of ML, TU Kaiserslautern, Winter 2019/2020 (with Marius Kloft).
-- Intelligent Data Analysis (Lab course), SUSTech, Spring 2019.
-- Artificial Intelligence (Lab course), SUSTech, Autumn 2018.
 
 
 == Referee Experience
@@ -100,4 +91,4 @@ My research interests lie in the areas of machine learning and learning theory, 
 [https://www.mitpressjournals.org/loi/neco NEURCOMP]
 
 
-: {Conference} AAAI (2019-2022), ACML (2019--2022), AISTATS (2016--2023), COLT (2018), ECML (2021, 2022), ICLR (2018--2023), ICML (2018--2023), IJCAI (2019--2023), NeurIPS (2016--2022), UAI (2023) 
+: {Conference} AAAI (2019-2022), ACML (2019--2022), AISTATS (2016--2023), COLT (2018), ECML (2021, 2022), ICLR (2018--2023), ICML (2018--2023), IJCAI (2019--2023), NeurIPS (2016--2023), UAI (2023) 
