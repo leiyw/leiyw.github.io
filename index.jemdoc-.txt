@@ -38,6 +38,8 @@ My research interests lie in the areas of machine learning and learning theory, 
 . Y. Lei and Y. Ying. \"[paper/AA2016.pdf Generalization Analysis of Multi-modal Metric Learning]\". Analysis and Applications, 14(4): 503-521, 2016.
 . Y. Lei, L. Ding and W. Zhang. \"[paper/RBF2015.pdf Generalization Performance of Radial Basis Function Networks]\". IEEE Transactions on Neural Networks and Learning Systems, 26(3):551-564, 2015.
 
+. Z. Huang, Y. Lei and A. Kaban. \"[paper/ECML2022.pdf Noise-efficient Learning of Differentially Private Partitioning Machine Ensembles]\". In European Conference on Machine Learning, (to appear) 2022.
+. T. Hu and Y. Lei. \"[paper/21-0983.pdf Early Stopping for Iterative Regularization with General Loss Functions]\". Journal of Machine Learning Research, 23:1--36, 2022.
 
 === Conference Publications 
 . Y. Lei.  \"[paper/COLT2023.pdf Stability and Generalization of Stochastic Optimization with Nonconvex and Nonsmooth Problems]\". In Conference on Learning Theory, (to appear) 2023.
