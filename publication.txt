@@ -1,0 +1,60 @@
+1	Y. Lei, D.X. Zhou, Analysis of Online Composite Mirror Descent Algorithm, Neural Computation 29(3):825–860 (2017). (JCR三?, CCF B?期刊, IF:1.626) (0 cites)	[改] [?]
+1	Y. Lei, A. Binder, U. Dogan and M. Kloft, Localized Multiple Kernel Learning--A Convex Approach, JMLR Conference and Workshop Proceedings: Asian Conference on Machine Learning, 63:81-96 (2016). (CCF C???) (2 cites)	[改] [?]
+1	Y. Lei, L. Ding, Y. Bi, Local rademacher complexity bounds based on covering numbers, Neurocomputing 218: 320-330 (2016). (JCR二?, IF: 2.392)(3 cites)	[改] [?]
+1	Y. Lei, Y. Ying, Generalization analysis of multi-modal metric learning, Analysis and Applications 14(4): 503-521 (2016). (JCR三?, IF:1.042) (1 cites)	[改] [?]
+1	Y. Lei, L. Ding, W. Zhang, Generalization performance of radial basis function networks, IEEE transactions on neural networks and learning systems 26(3): 551-564 (2015). (JCR一?, IF:4.854)(5 cites)	[改] [?]
+1	Y. Lei, U. Dogan, A. Binder, M. Kloft, Multi-class svms: From tighter data-dependent generalization bounds to novel algorithms, Advances in Neural Information Processing Systems, 28:2035-2043(2015) (CCF A???)(11 cites)	[改] [?]
+1	Y. Lei, A. Binder, U. Dogan and M. Kloft, Theory and Algorithms for the Localized Setting of Learning Kernels, JMLR Conference and Workshop Proceedings 44:173-195(2015). (4 cites)	[改] [?]
+1	Y. Lei, L. Ding, Refined Rademacher chaos complexity bounds with applications to the multikernel learning problem, Neural Computation 26(4):739-760 (2014). (JCR三?, CCF B?期刊, IF:1.626) (7 cites)	[改] [?]
+1	Y. Lei, L. Ding, Y. Ding, Generalization ability of fractional polynomial models, Neural Networks 49:59-73 (2014). (JCR二?, IF:3.216)(0 cites)	[改] [?]
+1	Y. Lei, L. Ding, W. Wu, Universal learning using free multivariate splines, Neurocomputing 119:253-263 (2013). (JCR二?, IF: 2.392)(2 cites)	[改] [?]
+1	Y. Lei, L. Ding, Approximation and estimation bounds for free knot splines, Computers & Mathematics with Applications 65(7):1006-1024.(JCR三?, IF: 1.398)(0 cites)
+
+The university of Birmingham has an excellent research and teaching environment. The position of Data Science and AI provides me a great opportunity to enhance my academic career.
+
+I have ten years' experience of research on machine learning. I have a strong background on both theoretical and computational aspects of machine learning. 
+
+1. Y. Lei and D.-X. Zhou. "Convergence of Online Mirror Descent." Applied Computational and Harmonic Analysis, 48(1):343-373, 2020.
+2. Y. Lei, U. Dogan, D.-X. Zhou and M. Kloft. "Data-dependent Generalization Bounds for Multi-class Classification." IEEE Transactions on Information Theory, 65(5): 2995-3021, 2019.
+3. Y. Lei, P. Yang, K. Tang and D.-X. Zhou. "Optimal Stochastic and Online Learning with Individual Iterates." In Advance in Neural Information Processing Systems, pages 5416-5426, 2019.  (Spotlight, 164 out of 6743 submissions)
+4. Y. Lei, L. Shi and Z.-C. Guo. "Convergence of Unregularized Online Learning Algorithms." Journal of Machine Learning Research, 18(171):1-33, 2018.
+5. Y. Lei, U. Dogan, A. Binder and M. Kloft. "Multi-class SVMs: From Tighter Data-Dependent Generalization Bounds to Novel Algorithms." In Advances in Neural Information Processing Systems, pages 2026-2034, 2015.
+
+
+Journal Articles:
+1. Y. Lei, T. Hu, G. Li and K. Tang. "Stochastic Gradient Descent for Nonconvex Learning without Bounded Gradient Assumptions." IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2019.2952219
+2. Y. Lei and D.-X. Zhou. "Convergence of Online Mirror Descent." Applied Computational and Harmonic Analysis, 48(1):343-373, 2020.
+3. Y. Lei and D.-X. Zhou. "Analysis of Singular Value Thresholding Algorithm for Matrix Completion." Journal of Fourier Analysis and Applications, 25 (6):2957-2972, 2019.
+4. S.-B. Lin, Y. Lei and D.-X. Zhou. "Boosted Kernel Ridge Regression: Optimal Learning Rates and Early Stopping." Journal of Machine Learning Research, 20(46):1-36, 2019.
+5. Y. Lei, U. Dogan, D.-X. Zhou and M. Kloft. "Data-dependent Generalization Bounds for Multi-class Classification." IEEE Transactions on Information Theory, 65(5): 2995-3021, 2019.
+6. N. Yousefi, Y. Lei, M. Kloft, M. Mollaghasemi and G. Anagnostopoulos. "Local Rademacher Complexity-based Learning Guarantees for Multi-task Learning." Journal of Machine Learning Research, 19(38):1-47, 2018. 
+7. Y. Lei, L. Shi and Z.-C. Guo. "Convergence of Unregularized Online Learning Algorithms." Journal of Machine Learning Research, 18(171):1-33, 2018.
+8. Y. Lei and D.-X. Zhou. "Learning Theory of Randomized Sparse Kaczmarz Method." SIAM Journal on Imaging Sciences, 11(1):547-574, 2018.
+9. J. Lin, Y. Lei, B. Zhang and D.-X. Zhou. "Online Pairwise Learning Algorithms with Convex Loss Functions." Information Sciences, 406-407(9):57-70, 2017.
+10. Y. Lei and D.-X. Zhou. "Analysis of Online Composite Mirror Descent Algorithm." Neural Computation, 29(3):825-860, 2017.
+11. Y. Lei, L. Ding and W. Zhang. "Generalization Performance of Radial Basis Function Networks." IEEE Transactions on Neural Networks and Learning Systems, 26(3):551-564, 2015.
+12. Y. Lei and L. Ding. "Refined Rademacher Chaos Complexity Bounds with Applications to the Multi-Kernel Learning Problem." Neural Computation, 26(4):739-760, 2014. 
+13. Y. Lei, L. Ding and Y. Ding. "Generalization Ability of Fractional Polynomial Models." Neural Networks, 49(C):59-73, 2014. 
+
+Top Tier Conference Proceedings:
+1. Y. Lei, P. Yang, K. Tang and D.-X. Zhou. "Optimal Stochastic and Online Learning with Individual Iterates." In Advance in Neural Information Processing Systems, pages 5416-5426, 2019.  (Spotlight, 164 out of 6743 submissions)
+2. Y. Lei and K. Tang. "Stochastic Composite Mirror Descent: Optimal Bounds with High Probabilities." In Advance in Neural Information Processing Systems, pages 1526-1536, 2018.
+3. Y. Lei, S.-B. Lin and K. Tang. "Generalization Bounds for Regularized Pairwise Learning." In International Joint Conference on Artificial Intelligence, pages 2376-2382, 2018.
+4. Y. Lei, A. Binder, U. Dogan and M. Kloft. "Localized Multiple Kernel Learning-A Convex Approach." In JMLR Conference and Workshop Proceedings: Asian Conference on Machine Learning, 63:81-96, 2016.
+5. Y. Lei, U. Dogan, A. Binder and M. Kloft. "Multi-class SVMs: From Tighter Data-Dependent Generalization Bounds to Novel Algorithms." In Advances in Neural Information Processing Systems, pages 2026-2034, 2015.
+6. Z. Yang, B. Zhou, Y. Lei, Y. Ying. "Stochastic Hard Thresholding Algorithms for AUC Maximization", IEEE International Conference on Data Mining, 2020.
+
+I am currently an Alexander von Humboldt Research Fellow, financially supported by the Alexander von Humboldt Foundation. I am working on the project "Statistical Machine Learning Using Vector-valued Functions". My goal is to develop a unifying theory and scalable algorithms for learning with vector-valued functions.
+
+I currently receive a research fellowship at a monthly amount of EUR 2,670 (tax free). The notice period is 4 weeks. 
+
+In 2015, I won a prestigious "Hubei Province Excellent Doctoral Dissertation" Award.
+
+In 2018, I was granted a prestigious research fellowship from the Alexander von Humboldt Foundation in acknowledgement of my scientific achievements.
+
+
+1. "Multi-class SVMs: From Tighter Data-Dependent Generalization Bounds to Novel Algorithms". We develop novel prediction error bounds for multi-class classification with a square-root dependency on the number of class labels, which significantly improves the previous state-of-the-art linear dependency.
+2. "Data-dependent Generalization Bounds for Multi-class Classification." We significantly improve the state-of-the-art prediction error bounds for extreme classification with a square-root dependency on the number of class labels to a logarithmic dependency. Such a mild dependency makes learning still possible even if the number of class labels is larger than the number of training examples.
+3. "Optimal Stochastic and Online Learning with Individual Iterates." We develop a novel stochastic learning algorithm with an individual iterate output which enjoys the optimal convergence rate. This provides an affirmative answer to the open question on how to design an algorithm which can preserve the sparsity and meanwhile the optimal convergence rates.
+4. "Convergence of Unregularized Online Learning Algorithms." We provide the first almost sure convergence and the first high-probability convergence rates for stochastic gradient descent applied to machine learning problems without regularization.
+5. "Convergence of Online Mirror Descent." We provide a complete solution to the fundamental problem on the convergence condition and convergence rates for online mirror descent algorithms.  
