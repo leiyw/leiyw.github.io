@@ -17,6 +17,10 @@ git add .
 git commit -m '1'
 git push
 
+origin: https://github.com/leiyw/leiyw.github.io.git
+branch: master
+Important: do not make an update in a new local folder to avoid conflicts
+
 https://leiyw.github.io/project.html
 
 git bash
