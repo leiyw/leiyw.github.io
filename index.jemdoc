@@ -14,7 +14,7 @@ I am an Assistant Professor at the Department of Mathematics, The University of 
 
 +Open Positions+: I am looking for self-motivated PhD students and Research Assistants with strong mathematical ablities and (or) programming skills. If you are interested in working on learning theory and optimization with me, please feel free to send me your CV and your detailed transcripts.
  
-We are organizing Special issue at DSAA 2025: Advances in Modern Machine Learning. We welcome your submissions. More details are given [dsaa.html here].
+We are organizing *Special issue* at DSAA 2025: Advances in Modern Machine Learning. We welcome your submissions. More details are given [dsaa.html here].
 == Research
 === Journal Publications 
 . P. Wang, Y. Lei, D. Wang, Y. Ying, D.-X. Zhou. \"[paper/Neco25.pdf Generalization Guarantees of Gradient Descent for Shallow Neural Networks]\". Neural Computation, 37(2), 344-402, 2025.
@@ -48,7 +48,6 @@ We are organizing Special issue at DSAA 2025: Advances in Modern Machine Learnin
 . P. Wang, Y. Lei, Y. Ying and D.-X. Zhou. \"[paper/NeurIPS2022b.pdf Stability and Generalization for Markov Chain Stochastic Gradient Methods]\". In Advances in Neural Information Processing Systems, pages 37735--37748, 2022.
 . M. Liu, Z. Zhang, Y. Lei and C. Liao. \"[paper/NeurIPS2022c.pdf A Communication-Efficient Distributed Gradient Clipping Algorithm for Training Deep Neural Networks]\". In Advances in Neural Information Processing Systems, pages 26204--26217, 2022. (+Spotlight+ acceptance rate: 5%)
 . W. Mustafa, Y. Lei and M. Kloft. \"[paper/ICML2022.pdf On the Generalization Analysis of Adversarial Learning]\". In International Conference on Machine Learning, pages 16174--16196, 2022.
-. Z. Huang, Y. Lei and A. Kaban. \"[paper/ECML2022.pdf Noise-efficient Learning of Differentially Private Partitioning Machine Ensembles]\". In European Conference on Machine Learning, (to appear) 2022.
 . Z. Yang, S. Hu, Y. Lei, K. Varshney, S. Lyu, Y. Ying. \"[paper/UAI2022.pdf Differentially Private SGDA for Minimax Problems]\". In Uncertainty in Artificial Intelligence, pages 2192-2202, 2022.
 . Y. Lei, M. Liu and Y. Ying. \"[paper/NeurIPS2021a.pdf Generalization Guarantee of SGD for Pairwise Learning]\". In Advances in Neural Information Processing Systems, pages 21216-21228, 2021.  [slide/NeurIPS2021a.pdf Talk Slides]
 . Z. Yang, Y. Lei, P. Wang, T. Yang and Y. Ying. \"[paper/NeurIPS2021b.pdf Simple Stochastic and Online Gradient Descent Algorithms for Pairwise Learning]\". In Advances in Neural Information Processing Systems, pages 20160-20171, 2021.
