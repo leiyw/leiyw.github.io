@@ -1,10 +1,10 @@
 # jemdoc: nofooter
-= Special issue at DSAA 2025: Advances in Modern Machine Learning
+= Special session at DSAA 2025: Advances in Modern Machine Learning
 
 Over the last twenty years, machine learning has significantly changed our economy, society and modern life. 
 This motivates the growing interests in developing efficient algorithms to train reliable machine learning models, as well as building the underlying theoretical foundations. 
 This special session aims to record the recent progress in methodological, theoretical and applied machine learning. 
-The special issue welcomes submissions in the area of deep learning, optimization for machine learning, trustworthy machine learning as well as novel machine learning applications.
+The special session welcomes submissions in the area of deep learning, optimization for machine learning, trustworthy machine learning as well as novel machine learning applications.
 
 The topics include but are not limited to:
 - Deep Learning and Applications
@@ -19,7 +19,7 @@ The topics include but are not limited to:
 - Paper Notification	July 24th, 2025
 - Paper Camera-Ready	August 21st, 2025
 
-The submission link will be released soon. Please contact the organizers if you have any questions about the policy or technical issues with the submission process.
+
 
 == Organizers
 - [https://leiyw.github.io/ Yunwen Lei ], The University of Hong Kong, leiyw@hku.hk.
@@ -28,7 +28,9 @@ The submission link will be released soon. Please contact the organizers if you 
 
 
 == Paper Submissions
-All papers should be submitted electronically via OpenReview.
+All papers should be submitted electronically via the link [https://openreview.net/group?id=IEEE.org/DSAA/2025/Conference https://openreview.net/group?id=IEEE.org/DSAA/2025/Conference].
+Please click the submission button first, and then select the +Special Session: Advances in Modern Machine Learning+ to submit your paper.
+Please contact the organizers if you have any questions about the policy or technical sessions with the submission process.
 
 The length of each paper submitted to the Research tracks should be no more than ten (10) pages and should be formatted following the standard 2-column U.S. letter style of IEEE Conference template. 
 For further information and instructions, see the [http://www.ieee.org/conferences_events/conferences/publishing/templates.html IEEE Proceedings Author Guidelines].
