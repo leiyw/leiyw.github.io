@@ -26,6 +26,7 @@ https://leiyw.github.io/project.html
 git bash
 
 https://www.humboldt-foundation.de/en/connect/explore-the-humboldt-network/singleview?tx_rsmavhsolr_solrview%5BpPersonId%5D=1203562&cHash=3ceafd72df0adfba08344809df66d4b8
+. T. Hu, X. Liu, K. Ji and Y. Lei. \"[Convergence of Adaptive Stochastic Mirror Descent]\". IEEE Transactions on Neural Networks and Learning Systems, (to appear).
 
 . S. Fu, Y. Lei, Q. Cao, X. Tian and D. Tao. \"[https://openreview.net/forum?id=8E5Yazboyh Sharper Bounds for Uniformly Stable Algorithms with Stationary Mixing Process]\". In International Conference on Learning Representations, (to appear) 2023.
 . Z. Yang, B. Zhou, Y. Lei and Y. Ying. \"Stochastic Hard Thresholding Algorithms for AUC Maximization\". In IEEE International Conference on Data Mining, 2020.
