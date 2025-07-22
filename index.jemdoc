@@ -17,6 +17,7 @@ I am an Assistant Professor at the Department of Mathematics, The University of 
 We are organizing a *special session* at DSAA 2025: Advances in Modern Machine Learning. We welcome your submissions. More details are given [dsaa.html here].
 == Research
 === Journal Publications 
+. T. Hu, X. Liu, K. Ji and Y.Lei. \"[https://ieeexplore.ieee.org/abstract/document/10931786 Convergence of Adaptive Stochastic Mirror Descent]\". IEEE Transactions on Neural Networks and Learning Systems, 2025.
 . P. Wang, Y. Lei, D. Wang, Y. Ying, D.-X. Zhou. \"[paper/Neco25.pdf Generalization Guarantees of Gradient Descent for Shallow Neural Networks]\". Neural Computation, 37(2), 344-402, 2025.
 . J. Fan and Y. Lei. \"[paper/ACHA2024.pdf High-Probability Generalization Bounds for Pointwise Uniformly Stable Algorithm]\". Applied and Computational Harmonic Analysis, 70 (101632), 2024.
 . Z. Huang, Y. Lei and A. Kaban. \"[paper/Neco2023.pdf Optimisation and Learning with Randomly Compressed Gradient Updates]\". Neural Computation, 35 (7): 1234–1287, 2023.
