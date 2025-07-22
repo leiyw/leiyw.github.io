@@ -39,6 +39,7 @@ We are organizing a *special session* at DSAA 2025: Advances in Modern Machine L
 
 
 === Conference Publications 
+. S. Zeng and Y. Lei. \"[https://openreview.net/forum?id=g4eTrS2U8o Stability and Generalization Analysis of Decentralized SGD: Sharper Bounds Beyond Lipschitzness and Smoothness]\". In International Conference on Machine Learning, 2025.
 . B. Wang, Y. Lei, Y. Ying and T. Yang. \"[https://openreview.net/forum?id=s15HrqCqbr On Discriminative Probabilistic Modeling for Self-Supervised Representation Learning]\". In International Conference on Learning Representations, 2025.
 . S. Zhou, Y. Lei and A. Kaban. \"[paper/NeurIPS2023.pdf Toward Better PAC-Bayes Bounds for Uniformly Stable Algorithms]\". Advances in Neural Information Processing Systems, 36, pages 29602--29614, 2023.
 . Y. Lei.  \"[paper/COLT2023.pdf Stability and Generalization of Stochastic Optimization with Nonconvex and Nonsmooth Problems]\". In Conference on Learning Theory, pages 191-227, 2023.
@@ -66,6 +67,7 @@ We are organizing a *special session* at DSAA 2025: Advances in Modern Machine L
 == Academic Service
 : {Top reviewer at NeurIPS (2024, 2019), AISTATS (2022) and IJCAI (2023). TMLR Expert Reviewer (2023).}
 : {Action Editor}
+- [https://link.springer.com/journal/10994 Machine Learning]
 - [https://www.aimsciences.org/mfc Mathematical Foundations of Computing]
 - [https://www.jmlr.org/tmlr/ Transactions on Machine Learning Research]
 - [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385 IEEE Transactions on Neural Networks and Learning Systems]
@@ -97,5 +99,5 @@ We are organizing a *special session* at DSAA 2025: Advances in Modern Machine L
 [https://www.mitpressjournals.org/loi/neco NEURCOMP]
 
 : {Conference Reviewer} 
-- AAAI (19--22, 25), ACML (19--25), AISTATS (16--25), ALT (24, 25), ECML (21--23), ECAI (24, 25), ICLR (18--25), ICML (18--25), IJCAI (19--25), NeurIPS (16--25), UAI (23-25) 
+- AAAI (19--22, 25, 26), ACML (19--25), AISTATS (16--25), ALT (24, 25), ECML (21--23), ECAI (24, 25), ICLR (18--25), ICML (18--25), IJCAI (19--25), NeurIPS (16--24), UAI (23-25) 
 
