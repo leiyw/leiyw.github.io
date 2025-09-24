@@ -71,7 +71,7 @@ multipliers (ADMM): quadratic problems \", IEEE Transactions on Automatic Contro
 [cv.pdf A brief cv].
 
 
-
+We are organizing a *special session* at DSAA 2025: Advances in Modern Machine Learning. We welcome your submissions. More details are given [dsaa.html here].
 
 === Selected Publications 
 . Z. Yang, B. Zhou, Y. Lei, Y. Ying. \"Stochastic Hard Thresholding Algorithms for AUC Maximization\". IEEE International Conference on Data Mining, 2020.
