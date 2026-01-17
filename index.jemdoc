@@ -17,7 +17,7 @@ I am an Assistant Professor at the Department of Mathematics, The University of 
 == Research
 === Journal Publications 
 . Y. Lei. \"[paper/TPAMI2025.pdf Towards Better Generalization Bounds of Stochastic Optimization for Nonconvex Learning]\". IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025.
-. Y. Lei, T. Sun and M. Liu. \"[paper/ACHA25.pdf Minibatch and local SGD: Algorithmic stability and linear speedup in generalization]\". Applied and Computational Harmonic Analysis, 79 (101795), 2025.
+. Y. Lei, T. Sun and M. Liu. \"[paper/ACHA2025.pdf Minibatch and local SGD: Algorithmic stability and linear speedup in generalization]\". Applied and Computational Harmonic Analysis, 79 (101795), 2025.
 . P. Wang, Y. Lei, D. Wang, Y. Ying, D.-X. Zhou. \"[paper/Neco25.pdf Generalization Guarantees of Gradient Descent for Shallow Neural Networks]\". Neural Computation, 37(2), 344-402, 2025.
 . A. Christmann and Y. Lei. \"[paper/AA2025 Bootstrap SGD: Algorithmic stability and robustness]\". Analysis and Applications, 23(5): 675-703, 2025.
 . J. Fan and Y. Lei. \"[paper/ACHA2024.pdf High-Probability Generalization Bounds for Pointwise Uniformly Stable Algorithm]\". Applied and Computational Harmonic Analysis, 70 (101632), 2024.
