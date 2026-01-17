@@ -12,20 +12,17 @@ E-mail: /leiyw/ \[@\] hku.hk\n
 == About Me
 I am an Assistant Professor at the Department of Mathematics, The University of Hong Kong. My research interests lie in the areas of machine learning and learning theory, with emphasis on the following topics: algorithmic stability, deep learning and stochastic optimization. In particular, I am interested in developing and analyzing scalable optimization methods for large-scale learning problems. I obtained my PhD degree in Computer Science from Wuhan University, and my Bachelor degree in Mathematics from Hunan University. 
 
-+Open Positions+: I am looking for self-motivated PhD students with strong mathematical ablities and (or) programming skills. If you are interested in working on learning theory and optimization with me, please feel free to send me your CV and your detailed transcripts.
++Open Positions+: I am looking for self-motivated PhD students and Research Assistants with strong mathematical ablities and (or) programming skills. If you are interested in working on learning theory and optimization with me, please feel free to send me your CV and your detailed transcripts.
  
-
 == Research
 === Journal Publications 
-. Y. Lei. \"[https://ieeexplore.ieee.org/abstract/document/11203891/ Towards Better Generalization Bounds of Stochastic Optimization for Nonconvex Learning]\". IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025.
-. Y. Lei, M. Liu and T. Sun. \"[paper/ACHA2025.pdf Minibatch and local SGD: Algorithmic stability and linear speedup in generalization]\". Applied and Computational Harmonic Analysis, 79 (101795), 2025.
-. T. Hu, X. Liu, K. Ji and Y. Lei. \"[https://ieeexplore.ieee.org/abstract/document/10931786 Convergence of Adaptive Stochastic Mirror Descent]\". IEEE Transactions on Neural Networks and Learning Systems, 36(8): 14963-14974, 2025.
-. A. Christmann and Y. Lei. \"[paper/AA2025.pdf Bootstrap SGD: Algorithmic stability and robustness]\". Analysis and Applications, 23(5): 675-703, 2025.
+. Y. Lei. \"[paper/TPAMI2025.pdf Towards Better Generalization Bounds of Stochastic Optimization for Nonconvex Learning]\". IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025.
 . P. Wang, Y. Lei, D. Wang, Y. Ying, D.-X. Zhou. \"[paper/Neco25.pdf Generalization Guarantees of Gradient Descent for Shallow Neural Networks]\". Neural Computation, 37(2), 344-402, 2025.
 . J. Fan and Y. Lei. \"[paper/ACHA2024.pdf High-Probability Generalization Bounds for Pointwise Uniformly Stable Algorithm]\". Applied and Computational Harmonic Analysis, 70 (101632), 2024.
+. A. Christmann and Y. Lei. \"[paper/AA2025 Bootstrap SGD: Algorithmic stability and robustness]\". Analysis and Applications, 23(5): 675-703, 2025.
 . Z. Huang, Y. Lei and A. Kaban. \"[paper/Neco2023.pdf Optimisation and Learning with Randomly Compressed Gradient Updates]\". Neural Computation, 35 (7): 1234–1287, 2023.
 . P. Wang, Y. Lei, Y. Ying and H. Zhang. \"[paper/ACHA2021.pdf Differentially Private SGD with Non-smooth Losses]\". Applied Computational and Harmonic Analysis, 56:306-336, 2022.
-. Y. Lei and K. Tang. \"[paper/TPAMI2021.pdf Learning Rates for Stochastic Gradient Descent with Nonconvex Objectives]\". IEEE Transactions on Pattern Analysis and Machine Intelligence, 43(12): 4505-4511, 2021.
+. Y. Lei and K. Tang. \"[paper/TPAMI2021.pdf Learning Rates for Stochastic Gradient Descent with Nonconvex Objectives]\". IEEE Transactions on Pattern Analysis and Machine Intelligence, 43(12): 4505--4511, 2021.
 . Y. Lei and Y. Ying. \"[paper/19-418.pdf Stochastic Proximal AUC Maximization]\". Journal of Machine Learning Research, 22(61):1-45, 2021. 
 . Y. Lei, T. Hu and K. Tang. \"[paper/19-716.pdf Generalization Performance of Multi-pass Stochastic Gradient Descent with Convex Loss Functions]\". Journal of Machine Learning Research, 22(25):1−41, 2021.
 . Y. Lei, T. Hu, G. Li and K. Tang. \"[paper/TNNLS2020.pdf Stochastic Gradient Descent for Nonconvex Learning without Bounded Gradient Assumptions]\". IEEE Transactions on Neural Networks and Learning Systems, 31(10):4394-4400, 2020.
@@ -41,7 +38,6 @@ I am an Assistant Professor at the Department of Mathematics, The University of 
 . Y. Lei and Y. Ying. \"[paper/AA2016.pdf Generalization Analysis of Multi-modal Metric Learning]\". Analysis and Applications, 14(4): 503-521, 2016.
 . Y. Lei, L. Ding and W. Zhang. \"[paper/RBF2015.pdf Generalization Performance of Radial Basis Function Networks]\". IEEE Transactions on Neural Networks and Learning Systems, 26(3):551-564, 2015.
 
-
 === Conference Publications 
 . S. Zeng and Y. Lei. \"[https://openreview.net/forum?id=g4eTrS2U8o Stability and Generalization Analysis of Decentralized SGD: Sharper Bounds Beyond Lipschitzness and Smoothness]\". In International Conference on Machine Learning, 2025.
 . B. Wang, Y. Lei, Y. Ying and T. Yang. \"[https://openreview.net/forum?id=s15HrqCqbr On Discriminative Probabilistic Modeling for Self-Supervised Representation Learning]\". In International Conference on Learning Representations, 2025.
@@ -53,6 +49,7 @@ I am an Assistant Professor at the Department of Mathematics, The University of 
 . P. Wang, Y. Lei, Y. Ying and D.-X. Zhou. \"[paper/NeurIPS2022b.pdf Stability and Generalization for Markov Chain Stochastic Gradient Methods]\". In Advances in Neural Information Processing Systems, pages 37735--37748, 2022.
 . M. Liu, Z. Zhang, Y. Lei and C. Liao. \"[paper/NeurIPS2022c.pdf A Communication-Efficient Distributed Gradient Clipping Algorithm for Training Deep Neural Networks]\". In Advances in Neural Information Processing Systems, pages 26204--26217, 2022. (+Spotlight+ acceptance rate: 5%)
 . W. Mustafa, Y. Lei and M. Kloft. \"[paper/ICML2022.pdf On the Generalization Analysis of Adversarial Learning]\". In International Conference on Machine Learning, pages 16174--16196, 2022.
+. Z. Huang, Y. Lei and A. Kaban. \"[paper/ECML2022.pdf Noise-efficient Learning of Differentially Private Partitioning Machine Ensembles]\". In European Conference on Machine Learning, (to appear) 2022.
 . Z. Yang, S. Hu, Y. Lei, K. Varshney, S. Lyu, Y. Ying. \"[paper/UAI2022.pdf Differentially Private SGDA for Minimax Problems]\". In Uncertainty in Artificial Intelligence, pages 2192-2202, 2022.
 . Y. Lei, M. Liu and Y. Ying. \"[paper/NeurIPS2021a.pdf Generalization Guarantee of SGD for Pairwise Learning]\". In Advances in Neural Information Processing Systems, pages 21216-21228, 2021.  [slide/NeurIPS2021a.pdf Talk Slides]
 . Z. Yang, Y. Lei, P. Wang, T. Yang and Y. Ying. \"[paper/NeurIPS2021b.pdf Simple Stochastic and Online Gradient Descent Algorithms for Pairwise Learning]\". In Advances in Neural Information Processing Systems, pages 20160-20171, 2021.
@@ -71,18 +68,17 @@ I am an Assistant Professor at the Department of Mathematics, The University of 
 == Academic Service
 : {Top reviewer at NeurIPS (2024, 2019), AISTATS (2022) and IJCAI (2023). TMLR Expert Reviewer (2023).}
 : {Action Editor}
-- [https://link.springer.com/journal/10994 Machine Learning]
 - [https://www.aimsciences.org/mfc Mathematical Foundations of Computing]
 - [https://www.jmlr.org/tmlr/ Transactions on Machine Learning Research]
 - [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385 IEEE Transactions on Neural Networks and Learning Systems]
-
 : {Area Chair}
 - NeurIPS 2025, DSAA 2025, ICLR 2026, AISTATS 2026, ICML 2026
-
 : {Journal Reviewer} 
 - [https://www.worldscientific.com/worldscinet/aa AA], 
 [https://www.journals.elsevier.com/applied-and-computational-harmonic-analysis ACHA], 
 [https://www.journals.elsevier.com/artificial-intelligence AIJ], 
+[https://www.sciencedirect.com/journal/computers-and-operations-research COR],
+[https://www.sciencedirect.com/journal/european-journal-of-operational-research EJOR],
 [https://www.sciencedirect.com/journal/information-sciences INS],
 [https://www.journals.elsevier.com/journal-of-approximation-theory JAT], 
 [https://www.journals.elsevier.com/journal-of-computational-mathematics-and-data-science JCMDS],
@@ -103,5 +99,5 @@ I am an Assistant Professor at the Department of Mathematics, The University of 
 [https://www.mitpressjournals.org/loi/neco NEURCOMP]
 
 : {Conference Reviewer} 
-- AAAI (19--22, 25, 26), ACML (19--25), AISTATS (16--25), ALT (24--26), ECML (21--23), ECAI (24, 25), ICLR (18--25), ICML (18--25), IJCAI (19--25), NeurIPS (16--24), UAI (23-25) 
+- AAAI (19--22, 25, 26), ACML (19--25), AISTATS (16--25), ALT (24-26), ECML (21--23), ECAI (24, 25), ICLR (18--25), ICML (18--25), IJCAI (19--26), NeurIPS (16--25), UAI (23-26) 
 
