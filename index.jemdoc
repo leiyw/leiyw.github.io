@@ -40,6 +40,8 @@ I am an Assistant Professor at the Department of Mathematics, The University of 
 . Y. Lei, L. Ding and W. Zhang. \"[paper/RBF2015.pdf Generalization Performance of Radial Basis Function Networks]\". IEEE Transactions on Neural Networks and Learning Systems, 26(3):551-564, 2015.
 
 === Conference Publications 
+. A. Ledent, R. Alves and Y. Lei \"[https://openreview.net/forum?id=9VWayvkCpK Generalization Bounds for Rank-sparse Neural Networks]\". In Advances in Neural Information Processing Systems, 2025.
+. Y. Li, Y. Lei, Z.-C. Guo and Y. Ying. \"[https://openreview.net/forum?id=7VN0iICXZj Optimal Rates for Generalization of Gradient Descent for Deep ReLU Classification]\". In Advances in Neural Information Processing Systems, 2025.
 . S. Zeng and Y. Lei. \"[https://openreview.net/forum?id=g4eTrS2U8o Stability and Generalization Analysis of Decentralized SGD: Sharper Bounds Beyond Lipschitzness and Smoothness]\". In International Conference on Machine Learning, 2025.
 . B. Wang, Y. Lei, Y. Ying and T. Yang. \"[https://openreview.net/forum?id=s15HrqCqbr On Discriminative Probabilistic Modeling for Self-Supervised Representation Learning]\". In International Conference on Learning Representations, 2025.
 . S. Zhou, Y. Lei and A. Kaban. \"[paper/NeurIPS2023.pdf Toward Better PAC-Bayes Bounds for Uniformly Stable Algorithms]\". Advances in Neural Information Processing Systems, 36, pages 29602--29614, 2023.
@@ -101,5 +103,5 @@ I am an Assistant Professor at the Department of Mathematics, The University of 
 [https://www.mitpressjournals.org/loi/neco NEURCOMP]
 
 : {Conference Reviewer} 
-- AAAI (19--22, 25, 26), ACML (19--25), AISTATS (16--25), ALT (24-26), COLT (26), ECML (21--23), ECAI (24, 25), ICLR (18--25), ICML (18--25), IJCAI (19--26), NeurIPS (16--25), UAI (23-26) 
+- AAAI (19--22, 25, 26), ACML (19--25), AISTATS (16--25), ALT (24-26), COLT (26), ECML (21--23), ECAI (24, 25), ICLR (18--25), ICML (18--25), IJCAI (19--26), NeurIPS (16--24), UAI (23-26) 
 
