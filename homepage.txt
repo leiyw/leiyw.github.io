@@ -10,7 +10,7 @@ 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
 git remote set-url origin
 
 git pull
-
+cd D:\docs\homepage
 python2 jemdoc.py index.jemdoc
 
 git add .
