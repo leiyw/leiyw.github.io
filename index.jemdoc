@@ -22,6 +22,7 @@ I am an Assistant Professor at the Department of Mathematics, The University of 
 . S. Zeng and Y. Lei. \"[paper/JMLR-24-0637.pdf Stochastic Gradient Methods: Bias, Stability and Generalization]\". Journal of Machine Learning Research, 27:1-55, 2026.
 . Y. Lei, P. Wang, Y. Ying and D.-X. Zhou. \"[paper/JMLR-24-2030.pdf Optimization and Generalization of Gradient Descent for Shallow ReLU Networks with Minimal Width]\". Journal of Machine Learning Research, 27:1-35, 2026.
 . Y. Lei. \"[paper/TPAMI2025.pdf Towards Better Generalization Bounds of Stochastic Optimization for Nonconvex Learning]\". IEEE Transactions on Pattern Analysis and Machine Intelligence, 48(3): 2104--2117, 2026.
+. Y. Lei, Z. Wang and X. Yuan. \"[paper/PL2026.pdf From Convergence to Generalization: Stability of Stationary-Point Learning Algorithms]\". IEEE Transactions on Pattern Analysis and Machine Intelligence, 48(9): 10598-10609, 2026.
 . Y. Lei, T. Sun and M. Liu. \"[paper/ACHA2025.pdf Minibatch and Local SGD: Algorithmic Stability and Linear Speedup in Generalization]\". Applied and Computational Harmonic Analysis, 79 (101795), 2025.
 . P. Wang, Y. Lei, D. Wang, Y. Ying, D.-X. Zhou. \"[paper/Neco25.pdf Generalization Guarantees of Gradient Descent for Shallow Neural Networks]\". Neural Computation, 37(2), 344-402, 2025.
 . A. Christmann and Y. Lei. \"[paper/AA2025.pdf Bootstrap SGD: Algorithmic Stability and Robustness]\". Analysis and Applications, 23(5): 675-703, 2025.
@@ -45,6 +46,7 @@ I am an Assistant Professor at the Department of Mathematics, The University of 
 . Y. Lei, L. Ding and W. Zhang. \"[paper/RBF2015.pdf Generalization Performance of Radial Basis Function Networks]\". IEEE Transactions on Neural Networks and Learning Systems, 26(3):551-564, 2015.
 
 === Conference Publications
+. Y. Xie and Y. Lei. \"[https://openreview.net/forum?id=giCCyIbMHc Sharper Generalization Guarantees for Asynchronous SGD: Beyond Lipschitzness, Smoothness and Data Homogeneity]\". In ICML, 2026.
 . A. Ledent, R. Alves and Y. Lei. \"[https://openreview.net/forum?id=n3M8h9mqDm Generalization Bounds for Rank-sparse Neural Networks]\". In NeurIPS, pages 147927--147996, 2025.
 . Y. Li, Y. Lei, Z.-C. Guo and Y. Ying. \"[https://openreview.net/forum?id=7VN0iICXZj Optimal Rates for Generalization of Gradient Descent for Deep ReLU Classification]\". In NeurIPS, pages 28623--28663, 2025.
 . S. Zeng and Y. Lei. \"[https://openreview.net/forum?id=g4eTrS2U8o Stability and Generalization Analysis of Decentralized SGD: Sharper Bounds Beyond Lipschitzness and Smoothness]\". In ICML, pages 74098--74132, 2025.
