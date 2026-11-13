@@ -47,6 +47,8 @@ I am an Assistant Professor at the Department of Mathematics, The University of 
 . Y. Lei, L. Ding and W. Zhang. \"[paper/RBF2015.pdf Generalization Performance of Radial Basis Function Networks]\". IEEE Transactions on Neural Networks and Learning Systems, 26(3):551-564, 2015.
 
 === Conference Publications
+. Y. Liu and Y. Lei. \"[paper/NeurIPS2026b.pdf Optimal Risk Bounds of Stochastic Gradient Descent for Shallow ReLU Networks]\". In NeurIPS, 2026.
+. S. Zeng, Y. Lei and Y. Ying. \"[paper/NeurIPS2026a.pdf Generalization Analysis of Biased Stochastic Gradient Methods for Minimax Problems]\". In NeurIPS, 2026.
 . Y. Xie and Y. Lei. \"[https://openreview.net/forum?id=giCCyIbMHc Sharper Generalization Guarantees for Asynchronous SGD: Beyond Lipschitzness, Smoothness and Data Homogeneity]\". In ICML, 2026.
 . A. Ledent, R. Alves and Y. Lei. \"[https://openreview.net/forum?id=n3M8h9mqDm Generalization Bounds for Rank-sparse Neural Networks]\". In NeurIPS, pages 147927--147996, 2025.
 . Y. Li, Y. Lei, Z.-C. Guo and Y. Ying. \"[https://openreview.net/forum?id=7VN0iICXZj Optimal Rates for Generalization of Gradient Descent for Deep ReLU Classification]\". In NeurIPS, pages 28623--28663, 2025.
@@ -92,7 +94,7 @@ I am an Assistant Professor at the Department of Mathematics, The University of 
 - [https://www.jmlr.org/tmlr/ Transactions on Machine Learning Research]
 - [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385 IEEE Transactions on Neural Networks and Learning Systems]
 : {Area Chair}
-- NeurIPS (2025, 2026), DSAA 2025, ICLR (2026, 2027), AISTATS 2026, ICML 2026
+- NeurIPS (2025, 2026), DSAA 2025, ICLR (2026, 2027), AISTATS 2026, ICML (2026, 2027)
 : {Editorial Board Reviewer}
 - [https://jmlr.org/ Journal of Machine Learning Research]
 : {Journal Reviewer}
@@ -120,5 +122,5 @@ I am an Assistant Professor at the Department of Mathematics, The University of 
 [https://www.mitpressjournals.org/loi/neco NEURCOMP]
 
 : {Conference Reviewer}
-- AAAI (19--22, 25--27), ACML (19--25), AISTATS (16--25), ALT (24-26), COLT (26), ECML (21--23), ECAI (24, 25), ICLR (18--25), ICML (18--25), IJCAI (19--26), NeurIPS (16--24), UAI (23-26)
+- AAAI (19--22, 25--27), ACML (19--25), AISTATS (16--25), ALT (24-27), COLT (26), ECML (21--23), ECAI (24, 25), ICLR (18--25), ICML (18--25), IJCAI (19--27), NeurIPS (16--24), UAI (23-26)
 
